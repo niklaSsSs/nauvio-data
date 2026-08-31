@@ -1,8 +1,8 @@
 {
- "source": "BSH",
- "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
+ "source": "mehrere (siehe regions[].source)",
+ "model": "mehrere (siehe regions[].model)",
  "kind": "model_forecast",
- "generated_utc": "2026-08-31T20:35:02Z",
+ "generated_utc": "2026-08-31T21:10:41Z",
  "regions": [
   {
    "region": "bal",
@@ -16,10 +16,10 @@
     14.986,
     57.9749
    ],
-   "reference_time_utc": "2026-08-30T16:00:00Z",
+   "reference_time_utc": "2026-08-31T21:00:00Z",
    "times": [
-    "2026-08-30T16:00:00Z",
-    "2026-09-02T15:00:00Z"
+    "2026-08-31T21:00:00Z",
+    "2026-09-03T20:00:00Z"
    ],
    "step_min": 60,
    "num_points": 6037
@@ -40,7 +40,9 @@
     "2026-09-01T00:00:00Z"
    ],
    "step_min": 15,
-   "num_points": 3761
+   "num_points": 3761,
+   "source": "BSH",
+   "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)"
   },
   {
    "region": "dks",
@@ -54,10 +56,10 @@
     12.9394,
     57.973
    ],
-   "reference_time_utc": "2026-08-30T16:00:00Z",
+   "reference_time_utc": "2026-08-31T21:00:00Z",
    "times": [
-    "2026-08-30T16:00:00Z",
-    "2026-09-02T15:00:00Z"
+    "2026-08-31T21:00:00Z",
+    "2026-09-03T20:00:00Z"
    ],
    "step_min": 60,
    "num_points": 841
@@ -74,10 +76,10 @@
     7.4848,
     55.8649
    ],
-   "reference_time_utc": "2026-08-30T16:00:00Z",
+   "reference_time_utc": "2026-08-31T21:00:00Z",
    "times": [
-    "2026-08-30T16:00:00Z",
-    "2026-09-02T15:00:00Z"
+    "2026-08-31T21:00:00Z",
+    "2026-09-03T20:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2574
