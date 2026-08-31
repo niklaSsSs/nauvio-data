@@ -1,0 +1,4854 @@
+{
+ "source": "BSH / DMI",
+ "source_name": "BSH / DMI",
+ "source_url": "https://gezeiten.bsh.de/alte_weser_leuchtturm https://gezeiten.bsh.de/amrum_odde https://gezeiten.bsh.de/arngast_leuchtturm https://gezeiten.bsh.de/augustfehn https://gezeiten.bsh.de/belum https://gezeiten.bsh.de/bensersiel https://gezeiten.bsh.de/blauort_norderpiep https://gezeiten.bsh.de/borkum_fischerbalje https://gezeiten.bsh.de/borkum_suedstrand https://gezeiten.bsh.de/brake https://gezeiten.bsh.de/breitenberg https://gezeiten.bsh.de/bremen_borgfeld https://gezeiten.bsh.de/bremen_farge https://gezeiten.bsh.de/bremen_niederblockland https://gezeiten.bsh.de/bremen_oslebshausen https://gezeiten.bsh.de/bremen_vegesack https://gezeiten.bsh.de/bremen_wasserhorst https://gezeiten.bsh.de/bremen_weserwehr https://gezeiten.bsh.de/bremen_wilhelm-kaisen-bruecke https://gezeiten.bsh.de/bremerhaven_alter_leuchtturm https://gezeiten.bsh.de/bremervoerde https://gezeiten.bsh.de/brokdorf https://gezeiten.bsh.de/brunsbuettel_ost https://gezeiten.bsh.de/buesum_schleuse https://gezeiten.bsh.de/buttelerhoerne https://gezeiten.bsh.de/buxtehude https://gezeiten.bsh.de/cuxhaven_steubenhoeft https://gezeiten.bsh.de/dagebuell https://gezeiten.bsh.de/der_strand_hamburger_hallig https://gezeiten.bsh.de/detern https://gezeiten.bsh.de/dreyschloot https://gezeiten.bsh.de/dukegat https://gezeiten.bsh.de/dwarsgat https://gezeiten.bsh.de/eider-sperrwerk_aussenpegel https://gezeiten.bsh.de/elmshorn_hafen https://gezeiten.bsh.de/elsfleth https://gezeiten.bsh.de/elsfleth_ohrt https://gezeiten.bsh.de/emden_grosse_seeschleuse https://gezeiten.bsh.de/emshoern https://gezeiten.bsh.de/everschopsiel https://gezeiten.bsh.de/fahrenholz https://gezeiten.bsh.de/fedderwardersiel https://gezeiten.bsh.de/fino1 https://gezeiten.bsh.de/fino3 https://gezeiten.bsh.de/foehrer_ley_nord https://gezeiten.bsh.de/friedrichskoog_hafen_aussenpegel https://gezeiten.bsh.de/geesthacht_wehr_unterpegel https://gezeiten.bsh.de/glueckstadt https://gezeiten.bsh.de/grauerort https://gezeiten.bsh.de/groede_anleger https://gezeiten.bsh.de/groenhude https://gezeiten.bsh.de/hamburg_altengamme https://gezeiten.bsh.de/hamburg_blankenese https://gezeiten.bsh.de/hamburg_bunthaus https://gezeiten.bsh.de/hamburg_cranz https://gezeiten.bsh.de/hamburg_dove-elbe_einfahrt https://gezeiten.bsh.de/hamburg_harburg https://gezeiten.bsh.de/hamburg_seemannshoeft https://gezeiten.bsh.de/hamburg_st-pauli https://gezeiten.bsh.de/hamburg_zollenspieker https://gezeiten.bsh.de/harlesiel https://gezeiten.bsh.de/hechthausen https://gezeiten.bsh.de/helgoland_binnenhafen https://gezeiten.bsh.de/herbrum_hafendamm https://gezeiten.bsh.de/hetlingen https://gezeiten.bsh.de/hoernum_hafen https://gezeiten.bsh.de/hollersiel https://gezeiten.bsh.de/holmer_siel https://gezeiten.bsh.de/hooge_anleger https://gezeiten.bsh.de/hooksielplate https://gezeiten.bsh.de/horneburg https://gezeiten.bsh.de/huntebrueck https://gezeiten.bsh.de/husum_schleuse https://gezeiten.bsh.de/ilmenau-sperrwerk_aussenpegel https://gezeiten.bsh.de/itzehoe_hafen https://gezeiten.bsh.de/jade-weser-port https://gezeiten.bsh.de/kasenort https://gezeiten.bsh.de/knock https://gezeiten.bsh.de/kollmar_kamperreihe https://gezeiten.bsh.de/krautsand https://gezeiten.bsh.de/krueckau-sperrwerk_binnenpegel https://gezeiten.bsh.de/langeness_nord https://gezeiten.bsh.de/langeoog_hafeneinfahrt https://gezeiten.bsh.de/leda-sperrwerk_unterpegel https://gezeiten.bsh.de/leerort https://gezeiten.bsh.de/leyhoern_leybucht https://gezeiten.bsh.de/list_hafen https://gezeiten.bsh.de/luehort https://gezeiten.bsh.de/meldorf_sperrwerk_aussenpegel https://gezeiten.bsh.de/mellumplate_leuchtturm https://gezeiten.bsh.de/mittelplate https://gezeiten.bsh.de/munkmarsch https://gezeiten.bsh.de/neuwerk_anleger https://gezeiten.bsh.de/nordenham https://gezeiten.bsh.de/norderney_riffgat https://gezeiten.bsh.de/nordstrandischmoor https://gezeiten.bsh.de/nortmoor https://gezeiten.bsh.de/oldenburg_drielake https://gezeiten.bsh.de/osteriff https://gezeiten.bsh.de/osterley https://gezeiten.bsh.de/otterndorf https://gezeiten.bsh.de/over https://gezeiten.bsh.de/papenburg https://gezeiten.bsh.de/pellworm_anleger https://gezeiten.bsh.de/pellworm_hoogerfaehre https://gezeiten.bsh.de/pinnau-sperrwerk_binnenpegel https://gezeiten.bsh.de/pogum https://gezeiten.bsh.de/rantumdamm https://gezeiten.bsh.de/rechtenfleth https://gezeiten.bsh.de/reithoerne https://gezeiten.bsh.de/rhede https://gezeiten.bsh.de/ritterhude https://gezeiten.bsh.de/robbensuedsteert https://gezeiten.bsh.de/rummelloch_west https://gezeiten.bsh.de/scharhoern_bake_c https://gezeiten.bsh.de/scharhoernriff_bake_a https://gezeiten.bsh.de/schillig https://gezeiten.bsh.de/schluettsiel https://gezeiten.bsh.de/schulau https://gezeiten.bsh.de/spieka_neufeld https://gezeiten.bsh.de/spiekeroog https://gezeiten.bsh.de/stadersand https://gezeiten.bsh.de/stoer-sperrwerk_aussenpegel https://gezeiten.bsh.de/strucklahnungshoern https://gezeiten.bsh.de/suederoogsand https://gezeiten.bsh.de/suedfall_fahrwasserkante https://gezeiten.bsh.de/terborg https://gezeiten.bsh.de/trischen_west https://gezeiten.bsh.de/uetersen https://gezeiten.bsh.de/vareler_schleuse https://gezeiten.bsh.de/wangerooge_hafen https://gezeiten.bsh.de/wangerooge_nord https://gezeiten.bsh.de/wangerooge_ost https://gezeiten.bsh.de/weener https://gezeiten.bsh.de/westerland https://gezeiten.bsh.de/westringaburg https://gezeiten.bsh.de/wilhelmshaven_alter_vorhafen https://gezeiten.bsh.de/wilhelmshaven_neuer_vorhafen_seeschleuse https://gezeiten.bsh.de/wittduen_hafen https://gezeiten.bsh.de/wremertief https://gezeiten.bsh.de/wyk https://gezeiten.bsh.de/zehnerloch https://www.dmi.dk/friedata/",
+ "prediction_kind": "astronomical",
+ "note": "Astronomische Gezeitenvorausberechnung, ohne aktuellen Windstau/Wetter. Zeiten intern UTC. Höhen werden je Station auf das Kartennull (LAT, SKN) reduziert; die Pegelhöhe bleibt erhalten.",
+ "generated_utc": "2026-08-31T22:55:32Z",
+ "stations": [
+  {
+   "id": "DE_BSH_734P",
+   "slug": "alte_weser_leuchtturm",
+   "bsh_slug": "alte_weser_leuchtturm",
+   "region": "de",
+   "gauge_id": "734P",
+   "bshnr": "734P",
+   "name": "Alte Weser, Leuchtturm",
+   "latitude": 53.86333,
+   "longitude": 8.1275,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/alte_weser_leuchtturm",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -4.98,
+    "skn_below_nhn_m": -2.11,
+    "skn_above_pnp_m": 2.87,
+    "chart_above_gauge_m": 2.87
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_622P",
+   "slug": "amrum_odde",
+   "bsh_slug": "amrum_odde",
+   "region": "de",
+   "gauge_id": "622P",
+   "bshnr": "622P",
+   "name": "Amrum Odde, Amrum",
+   "latitude": 54.70667,
+   "longitude": 8.33972,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/amrum_odde",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.57,
+    "skn_above_pnp_m": 3.43,
+    "chart_above_gauge_m": 3.43
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_773P",
+   "slug": "arngast_leuchtturm",
+   "bsh_slug": "arngast_leuchtturm",
+   "region": "de",
+   "gauge_id": "773P",
+   "bshnr": "773P",
+   "name": "Arngast, Leuchtturm",
+   "latitude": 53.48167,
+   "longitude": 8.1925,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/arngast_leuchtturm",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.71,
+    "skn_above_pnp_m": 2.31,
+    "chart_above_gauge_m": 2.31
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_810D",
+   "slug": "augustfehn",
+   "bsh_slug": "augustfehn",
+   "region": "de",
+   "gauge_id": "810D",
+   "bshnr": "810D",
+   "name": "Augustfehn, Aper Tief",
+   "latitude": 53.21,
+   "longitude": 7.7575,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/augustfehn",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.02,
+    "chart_above_gauge_m": 5.02
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_683P",
+   "slug": "belum",
+   "bsh_slug": "belum",
+   "region": "de",
+   "gauge_id": "683P",
+   "bshnr": "683P",
+   "name": "Belum, Oste",
+   "latitude": 53.82278,
+   "longitude": 9.03722,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/belum",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.89,
+    "skn_above_pnp_m": 3.13,
+    "chart_above_gauge_m": 3.13
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_782P",
+   "slug": "bensersiel",
+   "bsh_slug": "bensersiel",
+   "region": "de",
+   "gauge_id": "782P",
+   "bshnr": "782P",
+   "name": "Bensersiel",
+   "latitude": 53.67472,
+   "longitude": 7.575,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bensersiel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.88,
+    "skn_above_pnp_m": 3.12,
+    "chart_above_gauge_m": 3.12
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_666P",
+   "slug": "blauort_norderpiep",
+   "bsh_slug": "blauort_norderpiep",
+   "region": "de",
+   "gauge_id": "666P",
+   "bshnr": "666P",
+   "name": "Blauort, Norderpiep",
+   "latitude": 54.16861,
+   "longitude": 8.675,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/blauort_norderpiep",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.15,
+    "skn_above_pnp_m": 2.85,
+    "chart_above_gauge_m": 2.85
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_101P",
+   "slug": "borkum_fischerbalje",
+   "bsh_slug": "borkum_fischerbalje",
+   "region": "de",
+   "gauge_id": "101P",
+   "bshnr": "101P",
+   "name": "Borkum, Fischerbalje",
+   "latitude": 53.5575,
+   "longitude": 6.74778,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/borkum_fischerbalje",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.82,
+    "skn_above_pnp_m": 3.22,
+    "chart_above_gauge_m": 3.22
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_798P",
+   "slug": "borkum_suedstrand",
+   "bsh_slug": "borkum_suedstrand",
+   "region": "de",
+   "gauge_id": "798P",
+   "bshnr": "798P",
+   "name": "Borkum, Südstrand",
+   "latitude": 53.57694,
+   "longitude": 6.66139,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/borkum_suedstrand",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.79,
+    "skn_above_pnp_m": 3.23,
+    "chart_above_gauge_m": 3.23
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_743P",
+   "slug": "brake",
+   "bsh_slug": "brake",
+   "region": "de",
+   "gauge_id": "743P",
+   "bshnr": "743P",
+   "name": "Brake, Weser",
+   "latitude": 53.31611,
+   "longitude": 8.48667,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/brake",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.33,
+    "skn_above_pnp_m": 2.68,
+    "chart_above_gauge_m": 2.68
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_693P",
+   "slug": "breitenberg",
+   "bsh_slug": "breitenberg",
+   "region": "de",
+   "gauge_id": "693P",
+   "bshnr": "693P",
+   "name": "Breitenberg, Stör",
+   "latitude": 53.92778,
+   "longitude": 9.63222,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/breitenberg",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.01,
+    "chart_above_gauge_m": 5.01
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_750D",
+   "slug": "bremen_borgfeld",
+   "bsh_slug": "bremen_borgfeld",
+   "region": "de",
+   "gauge_id": "750D",
+   "bshnr": "750D",
+   "name": "Bremen, Borgfeld, Wümme",
+   "latitude": 53.13389,
+   "longitude": 8.89444,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_borgfeld",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.02,
+    "chart_above_gauge_m": 5.02
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_749P",
+   "slug": "bremen_farge",
+   "bsh_slug": "bremen_farge",
+   "region": "de",
+   "gauge_id": "749P",
+   "bshnr": "749P",
+   "name": "Bremen, Farge, Weser",
+   "latitude": 53.20472,
+   "longitude": 8.51028,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_farge",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.11,
+    "skn_above_pnp_m": 2.91,
+    "chart_above_gauge_m": 2.91
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_750C",
+   "slug": "bremen_niederblockland",
+   "bsh_slug": "bremen_niederblockland",
+   "region": "de",
+   "gauge_id": "750C",
+   "bshnr": "750C",
+   "name": "Bremen, Niederblockland, Wümme",
+   "latitude": 53.16139,
+   "longitude": 8.82639,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_niederblockland",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.02,
+    "chart_above_gauge_m": 5.02
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_502P",
+   "slug": "bremen_oslebshausen",
+   "bsh_slug": "bremen_oslebshausen",
+   "region": "de",
+   "gauge_id": "502P",
+   "bshnr": "502P",
+   "name": "Bremen, Oslebshausen, Weser",
+   "latitude": 53.11972,
+   "longitude": 8.71222,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_oslebshausen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.12,
+    "skn_above_pnp_m": 2.91,
+    "chart_above_gauge_m": 2.91
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_750P",
+   "slug": "bremen_vegesack",
+   "bsh_slug": "bremen_vegesack",
+   "region": "de",
+   "gauge_id": "750P",
+   "bshnr": "750P",
+   "name": "Bremen, Vegesack, Weser",
+   "latitude": 53.16944,
+   "longitude": 8.61944,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_vegesack",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.11,
+    "skn_above_pnp_m": 2.9,
+    "chart_above_gauge_m": 2.9
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_750A",
+   "slug": "bremen_wasserhorst",
+   "bsh_slug": "bremen_wasserhorst",
+   "region": "de",
+   "gauge_id": "750A",
+   "bshnr": "750A",
+   "name": "Bremen, Wasserhorst, Lesum",
+   "latitude": 53.16278,
+   "longitude": 8.71833,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_wasserhorst",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.0,
+    "chart_above_gauge_m": 5.0
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_752P",
+   "slug": "bremen_weserwehr",
+   "bsh_slug": "bremen_weserwehr",
+   "region": "de",
+   "gauge_id": "752P",
+   "bshnr": "752P",
+   "name": "Bremen, Weserwehr, Weser",
+   "latitude": 53.06028,
+   "longitude": 8.85472,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_weserwehr",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.12,
+    "skn_above_pnp_m": 2.91,
+    "chart_above_gauge_m": 2.91
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_751P",
+   "slug": "bremen_wilhelm-kaisen-bruecke",
+   "bsh_slug": "bremen_wilhelm-kaisen-bruecke",
+   "region": "de",
+   "gauge_id": "751P",
+   "bshnr": "751P",
+   "name": "Bremen, Wilhelm-Kaisen-Brücke, Weser",
+   "latitude": 53.07306,
+   "longitude": 8.80361,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremen_wilhelm-kaisen-bruecke",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.12,
+    "skn_above_pnp_m": 2.9,
+    "chart_above_gauge_m": 2.9
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_103P",
+   "slug": "bremerhaven_alter_leuchtturm",
+   "bsh_slug": "bremerhaven_alter_leuchtturm",
+   "region": "de",
+   "gauge_id": "103P",
+   "bshnr": "103P",
+   "name": "Bremerhaven, Weser, Alter Leuchtturm",
+   "latitude": 53.545,
+   "longitude": 8.56806,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremerhaven_alter_leuchtturm",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.64,
+    "skn_above_pnp_m": 2.36,
+    "chart_above_gauge_m": 2.36
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_687P",
+   "slug": "bremervoerde",
+   "bsh_slug": "bremervoerde",
+   "region": "de",
+   "gauge_id": "687P",
+   "bshnr": "687P",
+   "name": "Bremervörde, Oste",
+   "latitude": 53.48417,
+   "longitude": 9.15472,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/bremervoerde",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -4.98,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 4.98,
+    "chart_above_gauge_m": 4.98
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_688P",
+   "slug": "brokdorf",
+   "bsh_slug": "brokdorf",
+   "region": "de",
+   "gauge_id": "688P",
+   "bshnr": "688P",
+   "name": "Brokdorf, Elbe",
+   "latitude": 53.86278,
+   "longitude": 9.31611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/brokdorf",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.12,
+    "chart_above_gauge_m": 3.12
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_504B",
+   "slug": "brunsbuettel_ost",
+   "bsh_slug": "brunsbuettel_ost",
+   "region": "de",
+   "gauge_id": "504B",
+   "bshnr": "504B",
+   "name": "Brunsbüttel, Elbe, Ost",
+   "latitude": 53.88778,
+   "longitude": 9.14861,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/brunsbuettel_ost",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.9,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_505P",
+   "slug": "buesum_schleuse",
+   "bsh_slug": "buesum_schleuse",
+   "region": "de",
+   "gauge_id": "505P",
+   "bshnr": "505P",
+   "name": "Büsum, Schleuse",
+   "latitude": 54.12222,
+   "longitude": 8.85917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/buesum_schleuse",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.22,
+    "skn_above_pnp_m": 2.8,
+    "chart_above_gauge_m": 2.8
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_745A",
+   "slug": "buttelerhoerne",
+   "bsh_slug": "buttelerhoerne",
+   "region": "de",
+   "gauge_id": "745A",
+   "bshnr": "745A",
+   "name": "Buttelerhörne, Hunte",
+   "latitude": 53.18,
+   "longitude": 8.4125,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/buttelerhoerne",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.07,
+    "skn_above_pnp_m": 3.95,
+    "chart_above_gauge_m": 3.95
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_718P",
+   "slug": "buxtehude",
+   "bsh_slug": "buxtehude",
+   "region": "de",
+   "gauge_id": "718P",
+   "bshnr": "718P",
+   "name": "Buxtehude, Este",
+   "latitude": 53.48056,
+   "longitude": 9.70333,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/buxtehude",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.04,
+    "chart_above_gauge_m": 5.04
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_506P",
+   "slug": "cuxhaven_steubenhoeft",
+   "bsh_slug": "cuxhaven_steubenhoeft",
+   "region": "de",
+   "gauge_id": "506P",
+   "bshnr": "506P",
+   "name": "Cuxhaven, Steubenhöft, Elbe",
+   "latitude": 53.86778,
+   "longitude": 8.7175,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/cuxhaven_steubenhoeft",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.01,
+    "skn_above_pnp_m": 3.02,
+    "chart_above_gauge_m": 3.02
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_635P",
+   "slug": "dagebuell",
+   "bsh_slug": "dagebuell",
+   "region": "de",
+   "gauge_id": "635P",
+   "bshnr": "635P",
+   "name": "Dagebüll",
+   "latitude": 54.73056,
+   "longitude": 8.68694,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/dagebuell",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.28,
+    "skn_above_pnp_m": 2.73,
+    "chart_above_gauge_m": 2.73
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_637A",
+   "slug": "der_strand_hamburger_hallig",
+   "bsh_slug": "der_strand_hamburger_hallig",
+   "region": "de",
+   "gauge_id": "637A",
+   "bshnr": "637A",
+   "name": "Der Strand, Hamburger Hallig",
+   "latitude": 54.60528,
+   "longitude": 8.78722,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/der_strand_hamburger_hallig",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.38,
+    "skn_above_pnp_m": 2.62,
+    "chart_above_gauge_m": 2.62
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_810B",
+   "slug": "detern",
+   "bsh_slug": "detern",
+   "region": "de",
+   "gauge_id": "810B",
+   "bshnr": "810B",
+   "name": "Detern, Jümme",
+   "latitude": 53.205,
+   "longitude": 7.67278,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/detern",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.0,
+    "chart_above_gauge_m": 5.0
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DK_DMI_20303",
+   "slug": "dk-aalborg-oest",
+   "bsh_slug": "dk-aalborg-oest",
+   "region": "dk",
+   "gauge_id": "20303",
+   "bshnr": null,
+   "name": "Aalborg Øst",
+   "latitude": 57.0525,
+   "longitude": 9.9576,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.208
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_22331",
+   "slug": "dk-aarhus",
+   "bsh_slug": "dk-aarhus",
+   "region": "dk",
+   "gauge_id": "22331",
+   "bshnr": null,
+   "name": "Århus",
+   "latitude": 56.1466,
+   "longitude": 10.2226,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.331
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_28366",
+   "slug": "dk-assens-havn",
+   "bsh_slug": "dk-assens-havn",
+   "region": "dk",
+   "gauge_id": "28366",
+   "bshnr": null,
+   "name": "Assens Havn",
+   "latitude": 55.2706,
+   "longitude": 9.8897,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.106
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_28548",
+   "slug": "dk-bagenkop",
+   "bsh_slug": "dk-bagenkop",
+   "region": "dk",
+   "gauge_id": "28548",
+   "bshnr": null,
+   "name": "Bagenkop",
+   "latitude": 54.7517,
+   "longitude": 10.6724,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.129
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_27084",
+   "slug": "dk-ballen",
+   "bsh_slug": "dk-ballen",
+   "region": "dk",
+   "gauge_id": "27084",
+   "bshnr": null,
+   "name": "Ballen",
+   "latitude": 55.8155,
+   "longitude": 10.6399,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.271
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_30357",
+   "slug": "dk-drogden-fyr",
+   "bsh_slug": "dk-drogden-fyr",
+   "region": "dk",
+   "gauge_id": "30357",
+   "bshnr": null,
+   "name": "Drogden Fyr",
+   "latitude": 55.5364,
+   "longitude": 12.7113,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.066
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_25149",
+   "slug": "dk-esbjerg-havn",
+   "bsh_slug": "dk-esbjerg-havn",
+   "region": "dk",
+   "gauge_id": "25149",
+   "bshnr": null,
+   "name": "Esbjerg Havn",
+   "latitude": 55.4602,
+   "longitude": 8.4397,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -1.208
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_24018",
+   "slug": "dk-ferring",
+   "bsh_slug": "dk-ferring",
+   "region": "dk",
+   "gauge_id": "24018",
+   "bshnr": null,
+   "name": "Ferring",
+   "latitude": 56.5246,
+   "longitude": 8.1152,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.358
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_23293",
+   "slug": "dk-fredericia",
+   "bsh_slug": "dk-fredericia",
+   "region": "dk",
+   "gauge_id": "23293",
+   "bshnr": null,
+   "name": "Fredericia",
+   "latitude": 55.5595,
+   "longitude": 9.753,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.255
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_20101",
+   "slug": "dk-frederikshavn",
+   "bsh_slug": "dk-frederikshavn",
+   "region": "dk",
+   "gauge_id": "20101",
+   "bshnr": null,
+   "name": "Frederikshavn",
+   "latitude": 57.4357,
+   "longitude": 10.5479,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.271
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_31616",
+   "slug": "dk-gedser",
+   "bsh_slug": "dk-gedser",
+   "region": "dk",
+   "gauge_id": "31616",
+   "bshnr": null,
+   "name": "Gedser",
+   "latitude": 54.5721,
+   "longitude": 11.9245,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.097
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_25137",
+   "slug": "dk-graadyb-barre",
+   "bsh_slug": "dk-graadyb-barre",
+   "region": "dk",
+   "gauge_id": "25137",
+   "bshnr": null,
+   "name": "Grådyb Barre",
+   "latitude": 55.4401,
+   "longitude": 8.2602,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -1.209
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_22121",
+   "slug": "dk-grenaa",
+   "bsh_slug": "dk-grenaa",
+   "region": "dk",
+   "gauge_id": "22121",
+   "bshnr": null,
+   "name": "Grenå",
+   "latitude": 56.4121,
+   "longitude": 10.922,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.276
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_20252",
+   "slug": "dk-hals-barre",
+   "bsh_slug": "dk-hals-barre",
+   "region": "dk",
+   "gauge_id": "20252",
+   "bshnr": null,
+   "name": "Hals Barre",
+   "latitude": 56.9547,
+   "longitude": 10.4255,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.279
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_21009",
+   "slug": "dk-hanstholm",
+   "bsh_slug": "dk-hanstholm",
+   "region": "dk",
+   "gauge_id": "21009",
+   "bshnr": null,
+   "name": "Hanstholm",
+   "latitude": 57.12,
+   "longitude": 8.5955,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.229
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_26136",
+   "slug": "dk-havneby",
+   "bsh_slug": "dk-havneby",
+   "region": "dk",
+   "gauge_id": "26136",
+   "bshnr": null,
+   "name": "Havneby",
+   "latitude": 55.0871,
+   "longitude": 8.5654,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -1.343
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_20047",
+   "slug": "dk-hirtshals",
+   "bsh_slug": "dk-hirtshals",
+   "region": "dk",
+   "gauge_id": "20047",
+   "bshnr": null,
+   "name": "Hirtshals",
+   "latitude": 57.5951,
+   "longitude": 9.9625,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.23
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_26361",
+   "slug": "dk-hoejer-vidaaslusen",
+   "bsh_slug": "dk-hoejer-vidaaslusen",
+   "region": "dk",
+   "gauge_id": "26361",
+   "bshnr": null,
+   "name": "Højer/Vidåslusen",
+   "latitude": 54.9628,
+   "longitude": 8.6619,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.899
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_30017",
+   "slug": "dk-hornbaek",
+   "bsh_slug": "dk-hornbaek",
+   "region": "dk",
+   "gauge_id": "30017",
+   "bshnr": null,
+   "name": "Hornbæk",
+   "latitude": 56.0934,
+   "longitude": 12.4571,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.157
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_24342",
+   "slug": "dk-hvide-sande-kyst",
+   "bsh_slug": "dk-hvide-sande-kyst",
+   "region": "dk",
+   "gauge_id": "24342",
+   "bshnr": null,
+   "name": "Hvide Sande kyst",
+   "latitude": 55.9967,
+   "longitude": 8.1098,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.55
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_29141",
+   "slug": "dk-kalundborg",
+   "bsh_slug": "dk-kalundborg",
+   "region": "dk",
+   "gauge_id": "29141",
+   "bshnr": null,
+   "name": "Kalundborg",
+   "latitude": 55.6736,
+   "longitude": 11.0973,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.256
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_28198",
+   "slug": "dk-kerteminde",
+   "bsh_slug": "dk-kerteminde",
+   "region": "dk",
+   "gauge_id": "28198",
+   "bshnr": null,
+   "name": "Kerteminde",
+   "latitude": 55.4508,
+   "longitude": 10.6651,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.24
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_31282",
+   "slug": "dk-klintholm-havn",
+   "bsh_slug": "dk-klintholm-havn",
+   "region": "dk",
+   "gauge_id": "31282",
+   "bshnr": null,
+   "name": "Klintholm Havn",
+   "latitude": 54.953,
+   "longitude": 12.4651,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.067
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_30336",
+   "slug": "dk-koebenhavns-havn",
+   "bsh_slug": "dk-koebenhavns-havn",
+   "region": "dk",
+   "gauge_id": "30336",
+   "bshnr": null,
+   "name": "Københavns Havn",
+   "latitude": 55.7043,
+   "longitude": 12.5989,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.152
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_30479",
+   "slug": "dk-koege-havn",
+   "bsh_slug": "dk-koege-havn",
+   "region": "dk",
+   "gauge_id": "30479",
+   "bshnr": null,
+   "name": "Køge Havn",
+   "latitude": 55.4555,
+   "longitude": 12.1965,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.065
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_29395",
+   "slug": "dk-korsoer-fiskerihavn",
+   "bsh_slug": "dk-korsoer-fiskerihavn",
+   "region": "dk",
+   "gauge_id": "29395",
+   "bshnr": null,
+   "name": "Korsør Fiskerihavn",
+   "latitude": 55.3323,
+   "longitude": 11.1309,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.227
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_24032",
+   "slug": "dk-lemvig",
+   "bsh_slug": "dk-lemvig",
+   "region": "dk",
+   "gauge_id": "24032",
+   "bshnr": null,
+   "name": "Lemvig",
+   "latitude": 56.5507,
+   "longitude": 8.3068,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.148
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_20423",
+   "slug": "dk-loegstoer",
+   "bsh_slug": "dk-loegstoer",
+   "region": "dk",
+   "gauge_id": "20423",
+   "bshnr": null,
+   "name": "Løgstør",
+   "latitude": 56.9678,
+   "longitude": 9.2459,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.062
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_25346",
+   "slug": "dk-mandoe",
+   "bsh_slug": "dk-mandoe",
+   "region": "dk",
+   "gauge_id": "25346",
+   "bshnr": null,
+   "name": "Mandø",
+   "latitude": 55.2764,
+   "longitude": 8.5739,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.888
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_28119",
+   "slug": "dk-middelfart-havn",
+   "bsh_slug": "dk-middelfart-havn",
+   "region": "dk",
+   "gauge_id": "28119",
+   "bshnr": null,
+   "name": "Middelfart Havn",
+   "latitude": 55.5064,
+   "longitude": 9.7362,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.194
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_31417",
+   "slug": "dk-nakskov",
+   "bsh_slug": "dk-nakskov",
+   "region": "dk",
+   "gauge_id": "31417",
+   "bshnr": null,
+   "name": "Nakskov",
+   "latitude": 54.8279,
+   "longitude": 11.1364,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.096
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_25139",
+   "slug": "dk-nordby",
+   "bsh_slug": "dk-nordby",
+   "region": "dk",
+   "gauge_id": "25139",
+   "bshnr": null,
+   "name": "Nordby",
+   "latitude": 55.45,
+   "longitude": 8.4083,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -1.271
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_21138",
+   "slug": "dk-nykoebing-mors",
+   "bsh_slug": "dk-nykoebing-mors",
+   "region": "dk",
+   "gauge_id": "21138",
+   "bshnr": null,
+   "name": "Nykøbing Mors",
+   "latitude": 56.7948,
+   "longitude": 8.8635,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.041
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_31573",
+   "slug": "dk-roedbyhavn",
+   "bsh_slug": "dk-roedbyhavn",
+   "region": "dk",
+   "gauge_id": "31573",
+   "bshnr": null,
+   "name": "Rødbyhavn",
+   "latitude": 54.6561,
+   "longitude": 11.3475,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.101
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_29002",
+   "slug": "dk-sjaellands-odde",
+   "bsh_slug": "dk-sjaellands-odde",
+   "region": "dk",
+   "gauge_id": "29002",
+   "bshnr": null,
+   "name": "Sjællands Odde",
+   "latitude": 55.9727,
+   "longitude": 11.3694,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.166
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_20002",
+   "slug": "dk-skagen-havn",
+   "bsh_slug": "dk-skagen-havn",
+   "region": "dk",
+   "gauge_id": "20002",
+   "bshnr": null,
+   "name": "Skagen Havn",
+   "latitude": 57.7165,
+   "longitude": 10.5951,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.253
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_28234",
+   "slug": "dk-slipshavn",
+   "bsh_slug": "dk-slipshavn",
+   "region": "dk",
+   "gauge_id": "28234",
+   "bshnr": null,
+   "name": "Slipshavn",
+   "latitude": 55.2878,
+   "longitude": 10.8264,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.285
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_25144",
+   "slug": "dk-soenderho",
+   "bsh_slug": "dk-soenderho",
+   "region": "dk",
+   "gauge_id": "25144",
+   "bshnr": null,
+   "name": "Sønderho",
+   "latitude": 55.3478,
+   "longitude": 8.4749,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.586
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_28582",
+   "slug": "dk-spodsbjerg",
+   "bsh_slug": "dk-spodsbjerg",
+   "region": "dk",
+   "gauge_id": "28582",
+   "bshnr": null,
+   "name": "Spodsbjerg",
+   "latitude": 54.9347,
+   "longitude": 10.8338,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.186
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_24053",
+   "slug": "dk-struer",
+   "bsh_slug": "dk-struer",
+   "region": "dk",
+   "gauge_id": "24053",
+   "bshnr": null,
+   "name": "Struer",
+   "latitude": 56.4945,
+   "longitude": 8.5854,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.116
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_24122",
+   "slug": "dk-thorsminde-kyst",
+   "bsh_slug": "dk-thorsminde-kyst",
+   "region": "dk",
+   "gauge_id": "24122",
+   "bshnr": null,
+   "name": "Thorsminde kyst",
+   "latitude": 56.3726,
+   "longitude": 8.1136,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.36
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_24006",
+   "slug": "dk-thyboroen-kyst",
+   "bsh_slug": "dk-thyboroen-kyst",
+   "region": "dk",
+   "gauge_id": "24006",
+   "bshnr": null,
+   "name": "Thyborøn kyst",
+   "latitude": 56.7077,
+   "longitude": 8.2088,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.318
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_22009",
+   "slug": "dk-udbyhoej",
+   "bsh_slug": "dk-udbyhoej",
+   "region": "dk",
+   "gauge_id": "22009",
+   "bshnr": null,
+   "name": "Udbyhøj",
+   "latitude": 56.607,
+   "longitude": 10.3016,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.262
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DK_DMI_27014",
+   "slug": "dk-vesteroe-havn",
+   "bsh_slug": "dk-vesteroe-havn",
+   "region": "dk",
+   "gauge_id": "27014",
+   "bshnr": null,
+   "name": "Vesterø Havn",
+   "latitude": 57.2961,
+   "longitude": 10.924,
+   "source": "DMI",
+   "source_url": "https://www.dmi.dk/friedata/",
+   "prediction_kind": "astronomical",
+   "chart_datum": "LAT",
+   "gauge_datum": "DVR90",
+   "datums_m": {
+    "chart_above_gauge_m": -0.197
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_812P",
+   "slug": "dreyschloot",
+   "bsh_slug": "dreyschloot",
+   "region": "de",
+   "gauge_id": "812P",
+   "bshnr": "812P",
+   "name": "Dreyschloot, Leda",
+   "latitude": 53.17806,
+   "longitude": 7.66917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/dreyschloot",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.02,
+    "chart_above_gauge_m": 5.02
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_799G",
+   "slug": "dukegat",
+   "bsh_slug": "dukegat",
+   "region": "de",
+   "gauge_id": "799G",
+   "bshnr": "799G",
+   "name": "Dukegat",
+   "latitude": 53.43361,
+   "longitude": 6.92611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/dukegat",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.07,
+    "skn_below_nhn_m": -2.06,
+    "skn_above_pnp_m": 3.01,
+    "chart_above_gauge_m": 3.01
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_737P",
+   "slug": "dwarsgat",
+   "bsh_slug": "dwarsgat",
+   "region": "de",
+   "gauge_id": "737P",
+   "bshnr": "737P",
+   "name": "Dwarsgat, Unterfeuer",
+   "latitude": 53.71861,
+   "longitude": 8.3075,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/dwarsgat",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -4.98,
+    "skn_below_nhn_m": -2.42,
+    "skn_above_pnp_m": 2.56,
+    "chart_above_gauge_m": 2.56
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_664P",
+   "slug": "eider-sperrwerk_aussenpegel",
+   "bsh_slug": "eider-sperrwerk_aussenpegel",
+   "region": "de",
+   "gauge_id": "664P",
+   "bshnr": "664P",
+   "name": "Eider-Sperrwerk, Außenpegel",
+   "latitude": 54.26583,
+   "longitude": 8.84194,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/eider-sperrwerk_aussenpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.02,
+    "skn_above_pnp_m": 3.0,
+    "chart_above_gauge_m": 3.0
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_702A",
+   "slug": "elmshorn_hafen",
+   "bsh_slug": "elmshorn_hafen",
+   "region": "de",
+   "gauge_id": "702A",
+   "bshnr": "702A",
+   "name": "Elmshorn, Hafen, Krückau",
+   "latitude": 53.75222,
+   "longitude": 9.65389,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/elmshorn_hafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.01,
+    "chart_above_gauge_m": 5.01
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_744P",
+   "slug": "elsfleth",
+   "bsh_slug": "elsfleth",
+   "region": "de",
+   "gauge_id": "744P",
+   "bshnr": "744P",
+   "name": "Elsfleth, Weser",
+   "latitude": 53.26389,
+   "longitude": 8.48139,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/elsfleth",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.08,
+    "skn_below_nhn_m": -2.24,
+    "skn_above_pnp_m": 2.84,
+    "chart_above_gauge_m": 2.84
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_744A",
+   "slug": "elsfleth_ohrt",
+   "bsh_slug": "elsfleth_ohrt",
+   "region": "de",
+   "gauge_id": "744A",
+   "bshnr": "744A",
+   "name": "Elsfleth Ohrt, Hunte",
+   "latitude": 53.22111,
+   "longitude": 8.46,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/elsfleth_ohrt",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.17,
+    "skn_above_pnp_m": 2.85,
+    "chart_above_gauge_m": 2.85
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_507P",
+   "slug": "emden_grosse_seeschleuse",
+   "bsh_slug": "emden_grosse_seeschleuse",
+   "region": "de",
+   "gauge_id": "507P",
+   "bshnr": "507P",
+   "name": "Emden, Ems, Große Seeschleuse",
+   "latitude": 53.33667,
+   "longitude": 7.18639,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/emden_grosse_seeschleuse",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.39,
+    "skn_above_pnp_m": 2.62,
+    "chart_above_gauge_m": 2.62
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_799P",
+   "slug": "emshoern",
+   "bsh_slug": "emshoern",
+   "region": "de",
+   "gauge_id": "799P",
+   "bshnr": "799P",
+   "name": "Emshörn",
+   "latitude": 53.49361,
+   "longitude": 6.84111,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/emshoern",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.1,
+    "skn_below_nhn_m": -2.0,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_654E",
+   "slug": "everschopsiel",
+   "bsh_slug": "everschopsiel",
+   "region": "de",
+   "gauge_id": "654E",
+   "bshnr": "654E",
+   "name": "Everschopsiel",
+   "latitude": 54.40861,
+   "longitude": 8.82778,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/everschopsiel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.19,
+    "skn_above_pnp_m": 2.82,
+    "chart_above_gauge_m": 2.82
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_730C",
+   "slug": "fahrenholz",
+   "bsh_slug": "fahrenholz",
+   "region": "de",
+   "gauge_id": "730C",
+   "bshnr": "730C",
+   "name": "Fahrenholz, Ilmenau",
+   "latitude": 53.36028,
+   "longitude": 10.31556,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/fahrenholz",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.0,
+    "chart_above_gauge_m": 5.0
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_738P",
+   "slug": "fedderwardersiel",
+   "bsh_slug": "fedderwardersiel",
+   "region": "de",
+   "gauge_id": "738P",
+   "bshnr": "738P",
+   "name": "Fedderwardersiel, Fedderwarder Priel",
+   "latitude": 53.59639,
+   "longitude": 8.35444,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/fedderwardersiel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -2.5,
+    "skn_above_pnp_m": 2.54,
+    "chart_above_gauge_m": 2.54
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_610P",
+   "slug": "fino1",
+   "bsh_slug": "fino1",
+   "region": "de",
+   "gauge_id": "610P",
+   "bshnr": "610P",
+   "name": "Fino 1",
+   "latitude": 54.01472,
+   "longitude": 6.58778,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/fino1",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": 0.0,
+    "skn_below_nhn_m": -1.37,
+    "skn_above_pnp_m": -1.37,
+    "chart_above_gauge_m": -1.37
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_606P",
+   "slug": "fino3",
+   "bsh_slug": "fino3",
+   "region": "de",
+   "gauge_id": "606P",
+   "bshnr": "606P",
+   "name": "Fino 3",
+   "latitude": 55.195,
+   "longitude": 7.15806,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/fino3",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": 0.0,
+    "skn_below_nhn_m": -0.93,
+    "skn_above_pnp_m": -0.93,
+    "chart_above_gauge_m": -0.93
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_629B",
+   "slug": "foehrer_ley_nord",
+   "bsh_slug": "foehrer_ley_nord",
+   "region": "de",
+   "gauge_id": "629B",
+   "bshnr": "629B",
+   "name": "Föhrer Ley, Nord",
+   "latitude": 54.79639,
+   "longitude": 8.56,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/foehrer_ley_nord",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.74,
+    "skn_above_pnp_m": 3.26,
+    "chart_above_gauge_m": 3.26
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_675P",
+   "slug": "friedrichskoog_hafen_aussenpegel",
+   "bsh_slug": "friedrichskoog_hafen_aussenpegel",
+   "region": "de",
+   "gauge_id": "675P",
+   "bshnr": "675P",
+   "name": "Friedrichskoog, Hafen, Außenpegel",
+   "latitude": 53.99944,
+   "longitude": 8.87611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/friedrichskoog_hafen_aussenpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.08,
+    "skn_above_pnp_m": 2.95,
+    "chart_above_gauge_m": 2.95
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_732D",
+   "slug": "geesthacht_wehr_unterpegel",
+   "bsh_slug": "geesthacht_wehr_unterpegel",
+   "region": "de",
+   "gauge_id": "732D",
+   "bshnr": "732D",
+   "name": "Geesthacht, Elbe, Wehr, Unterpegel",
+   "latitude": 53.42333,
+   "longitude": 10.33472,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/geesthacht_wehr_unterpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -0.81,
+    "skn_above_pnp_m": 4.21,
+    "chart_above_gauge_m": 4.21
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_695P",
+   "slug": "glueckstadt",
+   "bsh_slug": "glueckstadt",
+   "region": "de",
+   "gauge_id": "695P",
+   "bshnr": "695P",
+   "name": "Glückstadt, Elbe",
+   "latitude": 53.78444,
+   "longitude": 9.40944,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/glueckstadt",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -1.93,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_703P",
+   "slug": "grauerort",
+   "bsh_slug": "grauerort",
+   "region": "de",
+   "gauge_id": "703P",
+   "bshnr": "703P",
+   "name": "Grauerort, Elbe, Reede",
+   "latitude": 53.67917,
+   "longitude": 9.49472,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/grauerort",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.12,
+    "chart_above_gauge_m": 3.12
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_637P",
+   "slug": "groede_anleger",
+   "bsh_slug": "groede_anleger",
+   "region": "de",
+   "gauge_id": "637P",
+   "bshnr": "637P",
+   "name": "Gröde, Anleger",
+   "latitude": 54.62944,
+   "longitude": 8.72917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/groede_anleger",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.2,
+    "skn_above_pnp_m": 2.83,
+    "chart_above_gauge_m": 2.83
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_694P",
+   "slug": "groenhude",
+   "bsh_slug": "groenhude",
+   "region": "de",
+   "gauge_id": "694P",
+   "bshnr": "694P",
+   "name": "Grönhude, Stör",
+   "latitude": 53.93583,
+   "longitude": 9.69083,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/groenhude",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.01,
+    "chart_above_gauge_m": 5.01
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_732A",
+   "slug": "hamburg_altengamme",
+   "bsh_slug": "hamburg_altengamme",
+   "region": "de",
+   "gauge_id": "732A",
+   "bshnr": "732A",
+   "name": "Hamburg, Altengamme, Elbe",
+   "latitude": 53.43111,
+   "longitude": 10.2975,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_altengamme",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -0.85,
+    "skn_above_pnp_m": 4.17,
+    "chart_above_gauge_m": 4.17
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_715P",
+   "slug": "hamburg_blankenese",
+   "bsh_slug": "hamburg_blankenese",
+   "region": "de",
+   "gauge_id": "715P",
+   "bshnr": "715P",
+   "name": "Hamburg, Blankenese, Elbe, Unterfeuer",
+   "latitude": 53.55778,
+   "longitude": 9.79583,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_blankenese",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_729P",
+   "slug": "hamburg_bunthaus",
+   "bsh_slug": "hamburg_bunthaus",
+   "region": "de",
+   "gauge_id": "729P",
+   "bshnr": "729P",
+   "name": "Hamburg, Bunthaus, Elbe",
+   "latitude": 53.46139,
+   "longitude": 10.06389,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_bunthaus",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_717P",
+   "slug": "hamburg_cranz",
+   "bsh_slug": "hamburg_cranz",
+   "region": "de",
+   "gauge_id": "717P",
+   "bshnr": "717P",
+   "name": "Hamburg, Cranz, Este-Sperrwerk, AP",
+   "latitude": 53.53583,
+   "longitude": 9.79167,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_cranz",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.05,
+    "skn_below_nhn_m": -1.93,
+    "skn_above_pnp_m": 3.12,
+    "chart_above_gauge_m": 3.12
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_727P",
+   "slug": "hamburg_dove-elbe_einfahrt",
+   "bsh_slug": "hamburg_dove-elbe_einfahrt",
+   "region": "de",
+   "gauge_id": "727P",
+   "bshnr": "727P",
+   "name": "Hamburg, Dove-Elbe, Elbe, Einfahrt",
+   "latitude": 53.50833,
+   "longitude": 10.06167,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_dove-elbe_einfahrt",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_724P",
+   "slug": "hamburg_harburg",
+   "bsh_slug": "hamburg_harburg",
+   "region": "de",
+   "gauge_id": "724P",
+   "bshnr": "724P",
+   "name": "Hamburg, Harburg, Elbe, Schleuse",
+   "latitude": 53.47278,
+   "longitude": 9.99194,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_harburg",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_720P",
+   "slug": "hamburg_seemannshoeft",
+   "bsh_slug": "hamburg_seemannshoeft",
+   "region": "de",
+   "gauge_id": "720P",
+   "bshnr": "720P",
+   "name": "Hamburg, Seemannshöft, Elbe",
+   "latitude": 53.54,
+   "longitude": 9.88083,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_seemannshoeft",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_508P",
+   "slug": "hamburg_st-pauli",
+   "bsh_slug": "hamburg_st-pauli",
+   "region": "de",
+   "gauge_id": "508P",
+   "bshnr": "508P",
+   "name": "Hamburg, St. Pauli, Elbe",
+   "latitude": 53.54556,
+   "longitude": 9.97,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_st-pauli",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.9,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_731P",
+   "slug": "hamburg_zollenspieker",
+   "bsh_slug": "hamburg_zollenspieker",
+   "region": "de",
+   "gauge_id": "731P",
+   "bshnr": "731P",
+   "name": "Hamburg, Zollenspieker, Elbe",
+   "latitude": 53.39861,
+   "longitude": 10.18528,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hamburg_zollenspieker",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.23,
+    "skn_above_pnp_m": 3.81,
+    "chart_above_gauge_m": 3.81
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_778P",
+   "slug": "harlesiel",
+   "bsh_slug": "harlesiel",
+   "region": "de",
+   "gauge_id": "778P",
+   "bshnr": "778P",
+   "name": "Harlesiel, Hafen",
+   "latitude": 53.70694,
+   "longitude": 7.80861,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/harlesiel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.03,
+    "skn_above_pnp_m": 2.99,
+    "chart_above_gauge_m": 2.99
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_685P",
+   "slug": "hechthausen",
+   "bsh_slug": "hechthausen",
+   "region": "de",
+   "gauge_id": "685P",
+   "bshnr": "685P",
+   "name": "Hechthausen, Oste",
+   "latitude": 53.64056,
+   "longitude": 9.25278,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hechthausen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.01,
+    "chart_above_gauge_m": 5.01
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_509A",
+   "slug": "helgoland_binnenhafen",
+   "bsh_slug": "helgoland_binnenhafen",
+   "region": "de",
+   "gauge_id": "509A",
+   "bshnr": "509A",
+   "name": "Helgoland, Binnenhafen",
+   "latitude": 54.17889,
+   "longitude": 7.89,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/helgoland_binnenhafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.82,
+    "skn_above_pnp_m": 3.2,
+    "chart_above_gauge_m": 3.2
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_816P",
+   "slug": "herbrum_hafendamm",
+   "bsh_slug": "herbrum_hafendamm",
+   "region": "de",
+   "gauge_id": "816P",
+   "bshnr": "816P",
+   "name": "Herbrum, Ems, Hafendamm",
+   "latitude": 53.04278,
+   "longitude": 7.31833,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/herbrum_hafendamm",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.34,
+    "skn_above_pnp_m": 3.7,
+    "chart_above_gauge_m": 3.7
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_711P",
+   "slug": "hetlingen",
+   "bsh_slug": "hetlingen",
+   "region": "de",
+   "gauge_id": "711P",
+   "bshnr": "711P",
+   "name": "Hetlingen, Elbe",
+   "latitude": 53.60944,
+   "longitude": 9.58444,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hetlingen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.93,
+    "skn_above_pnp_m": 3.11,
+    "chart_above_gauge_m": 3.11
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_624P",
+   "slug": "hoernum_hafen",
+   "bsh_slug": "hoernum_hafen",
+   "region": "de",
+   "gauge_id": "624P",
+   "bshnr": "624P",
+   "name": "Hörnum, Sylt, Hafen",
+   "latitude": 54.75806,
+   "longitude": 8.29611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hoernum_hafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.57,
+    "skn_above_pnp_m": 3.43,
+    "chart_above_gauge_m": 3.43
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_746P",
+   "slug": "hollersiel",
+   "bsh_slug": "hollersiel",
+   "region": "de",
+   "gauge_id": "746P",
+   "bshnr": "746P",
+   "name": "Hollersiel, Hunte",
+   "latitude": 53.16806,
+   "longitude": 8.37861,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hollersiel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -0.97,
+    "skn_above_pnp_m": 4.03,
+    "chart_above_gauge_m": 4.03
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_649B",
+   "slug": "holmer_siel",
+   "bsh_slug": "holmer_siel",
+   "region": "de",
+   "gauge_id": "649B",
+   "bshnr": "649B",
+   "name": "Holmer Siel",
+   "latitude": 54.52833,
+   "longitude": 8.86917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/holmer_siel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.4,
+    "skn_above_pnp_m": 2.61,
+    "chart_above_gauge_m": 2.61
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_636F",
+   "slug": "hooge_anleger",
+   "bsh_slug": "hooge_anleger",
+   "region": "de",
+   "gauge_id": "636F",
+   "bshnr": "636F",
+   "name": "Hooge, Anleger",
+   "latitude": 54.57861,
+   "longitude": 8.55639,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hooge_anleger",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.13,
+    "skn_above_pnp_m": 2.89,
+    "chart_above_gauge_m": 2.89
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_764B",
+   "slug": "hooksielplate",
+   "bsh_slug": "hooksielplate",
+   "region": "de",
+   "gauge_id": "764B",
+   "bshnr": "764B",
+   "name": "Hooksielplate",
+   "latitude": 53.66917,
+   "longitude": 8.14861,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/hooksielplate",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -2.49,
+    "skn_above_pnp_m": 2.55,
+    "chart_above_gauge_m": 2.55
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_713P",
+   "slug": "horneburg",
+   "bsh_slug": "horneburg",
+   "region": "de",
+   "gauge_id": "713P",
+   "bshnr": "713P",
+   "name": "Horneburg, Lühe",
+   "latitude": 53.51222,
+   "longitude": 9.59083,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/horneburg",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.03,
+    "chart_above_gauge_m": 5.03
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_745P",
+   "slug": "huntebrueck",
+   "bsh_slug": "huntebrueck",
+   "region": "de",
+   "gauge_id": "745P",
+   "bshnr": "745P",
+   "name": "Huntebrück, Hunte",
+   "latitude": 53.2,
+   "longitude": 8.44639,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/huntebrueck",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.77,
+    "skn_above_pnp_m": 3.25,
+    "chart_above_gauge_m": 3.25
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_510P",
+   "slug": "husum_schleuse",
+   "bsh_slug": "husum_schleuse",
+   "region": "de",
+   "gauge_id": "510P",
+   "bshnr": "510P",
+   "name": "Husum, Schleuse",
+   "latitude": 54.47222,
+   "longitude": 9.02472,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/husum_schleuse",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.46,
+    "skn_above_pnp_m": 2.54,
+    "chart_above_gauge_m": 2.54
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_730A",
+   "slug": "ilmenau-sperrwerk_aussenpegel",
+   "bsh_slug": "ilmenau-sperrwerk_aussenpegel",
+   "region": "de",
+   "gauge_id": "730A",
+   "bshnr": "730A",
+   "name": "Ilmenau-Sperrwerk, Außenpegel",
+   "latitude": 53.39472,
+   "longitude": 10.17972,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/ilmenau-sperrwerk_aussenpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.24,
+    "skn_above_pnp_m": 3.78,
+    "chart_above_gauge_m": 3.78
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_692A",
+   "slug": "itzehoe_hafen",
+   "bsh_slug": "itzehoe_hafen",
+   "region": "de",
+   "gauge_id": "692A",
+   "bshnr": "692A",
+   "name": "Itzehoe, Stör, Hafen",
+   "latitude": 53.92444,
+   "longitude": 9.50056,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/itzehoe_hafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.01,
+    "chart_above_gauge_m": 5.01
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_768P",
+   "slug": "jade-weser-port",
+   "bsh_slug": "jade-weser-port",
+   "region": "de",
+   "gauge_id": "768P",
+   "bshnr": "768P",
+   "name": "Jade-Weser-Port",
+   "latitude": 53.60167,
+   "longitude": 8.14889,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/jade-weser-port",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.46,
+    "skn_above_pnp_m": 2.56,
+    "chart_above_gauge_m": 2.56
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_691R",
+   "slug": "kasenort",
+   "bsh_slug": "kasenort",
+   "region": "de",
+   "gauge_id": "691R",
+   "bshnr": "691R",
+   "name": "Kasenort, Stör",
+   "latitude": 53.91167,
+   "longitude": 9.40944,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/kasenort",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.01,
+    "chart_above_gauge_m": 5.01
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_802P",
+   "slug": "knock",
+   "bsh_slug": "knock",
+   "region": "de",
+   "gauge_id": "802P",
+   "bshnr": "802P",
+   "name": "Knock, Ems",
+   "latitude": 53.32722,
+   "longitude": 7.03056,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/knock",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.11,
+    "skn_below_nhn_m": -2.26,
+    "skn_above_pnp_m": 2.85,
+    "chart_above_gauge_m": 2.85
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_698P",
+   "slug": "kollmar_kamperreihe",
+   "bsh_slug": "kollmar_kamperreihe",
+   "region": "de",
+   "gauge_id": "698P",
+   "bshnr": "698P",
+   "name": "Kollmar, Kamperreihe, Elbe",
+   "latitude": 53.73194,
+   "longitude": 9.46083,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/kollmar_kamperreihe",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.93,
+    "skn_above_pnp_m": 3.11,
+    "chart_above_gauge_m": 3.11
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_697P",
+   "slug": "krautsand",
+   "bsh_slug": "krautsand",
+   "region": "de",
+   "gauge_id": "697P",
+   "bshnr": "697P",
+   "name": "Krautsand, Elbe, Reede",
+   "latitude": 53.75472,
+   "longitude": 9.39167,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/krautsand",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -1.91,
+    "skn_above_pnp_m": 3.12,
+    "chart_above_gauge_m": 3.12
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_700R",
+   "slug": "krueckau-sperrwerk_binnenpegel",
+   "bsh_slug": "krueckau-sperrwerk_binnenpegel",
+   "region": "de",
+   "gauge_id": "700R",
+   "bshnr": "700R",
+   "name": "Krückau-Sperrwerk, Binnenpegel",
+   "latitude": 53.71639,
+   "longitude": 9.52611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/krueckau-sperrwerk_binnenpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.03,
+    "chart_above_gauge_m": 5.03
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_632F",
+   "slug": "langeness_nord",
+   "bsh_slug": "langeness_nord",
+   "region": "de",
+   "gauge_id": "632F",
+   "bshnr": "632F",
+   "name": "Langeness, Nord",
+   "latitude": 54.66556,
+   "longitude": 8.63139,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/langeness_nord",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.19,
+    "skn_above_pnp_m": 2.82,
+    "chart_above_gauge_m": 2.82
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_781P",
+   "slug": "langeoog_hafeneinfahrt",
+   "bsh_slug": "langeoog_hafeneinfahrt",
+   "region": "de",
+   "gauge_id": "781P",
+   "bshnr": "781P",
+   "name": "Langeoog, Hafeneinfahrt",
+   "latitude": 53.72333,
+   "longitude": 7.50167,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/langeoog_hafeneinfahrt",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -1.87,
+    "skn_above_pnp_m": 3.17,
+    "chart_above_gauge_m": 3.17
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_808A",
+   "slug": "leda-sperrwerk_unterpegel",
+   "bsh_slug": "leda-sperrwerk_unterpegel",
+   "region": "de",
+   "gauge_id": "808A",
+   "bshnr": "808A",
+   "name": "Leda-Sperrwerk, Unterpegel",
+   "latitude": 53.21417,
+   "longitude": 7.47444,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/leda-sperrwerk_unterpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.97,
+    "skn_above_pnp_m": 3.05,
+    "chart_above_gauge_m": 3.05
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_806P",
+   "slug": "leerort",
+   "bsh_slug": "leerort",
+   "region": "de",
+   "gauge_id": "806P",
+   "bshnr": "806P",
+   "name": "Leerort, Ems",
+   "latitude": 53.21528,
+   "longitude": 7.42611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/leerort",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -2.27,
+    "skn_above_pnp_m": 2.77,
+    "chart_above_gauge_m": 2.77
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_796C",
+   "slug": "leyhoern_leybucht",
+   "bsh_slug": "leyhoern_leybucht",
+   "region": "de",
+   "gauge_id": "796C",
+   "bshnr": "796C",
+   "name": "Leyhörn, Leybucht",
+   "latitude": 53.54917,
+   "longitude": 7.03611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/leyhoern_leybucht",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.85,
+    "skn_above_pnp_m": 3.15,
+    "chart_above_gauge_m": 3.15
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_617P",
+   "slug": "list_hafen",
+   "bsh_slug": "list_hafen",
+   "region": "de",
+   "gauge_id": "617P",
+   "bshnr": "617P",
+   "name": "List, Sylt, Hafen",
+   "latitude": 55.01667,
+   "longitude": 8.44056,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/list_hafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -4.99,
+    "skn_below_nhn_m": -1.44,
+    "skn_above_pnp_m": 3.55,
+    "chart_above_gauge_m": 3.55
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_712P",
+   "slug": "luehort",
+   "bsh_slug": "luehort",
+   "region": "de",
+   "gauge_id": "712P",
+   "bshnr": "712P",
+   "name": "Lühort, Lühe",
+   "latitude": 53.57139,
+   "longitude": 9.63361,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/luehort",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.11,
+    "chart_above_gauge_m": 3.11
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_667B",
+   "slug": "meldorf_sperrwerk_aussenpegel",
+   "bsh_slug": "meldorf_sperrwerk_aussenpegel",
+   "region": "de",
+   "gauge_id": "667B",
+   "bshnr": "667B",
+   "name": "Meldorf, Sperrwerk, Außenpegel",
+   "latitude": 54.09222,
+   "longitude": 8.94917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/meldorf_sperrwerk_aussenpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.2,
+    "skn_above_pnp_m": 2.82,
+    "chart_above_gauge_m": 2.82
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_760P",
+   "slug": "mellumplate_leuchtturm",
+   "bsh_slug": "mellumplate_leuchtturm",
+   "region": "de",
+   "gauge_id": "760P",
+   "bshnr": "760P",
+   "name": "Mellumplate, Leuchtturm",
+   "latitude": 53.77167,
+   "longitude": 8.0925,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/mellumplate_leuchtturm",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -2.25,
+    "skn_above_pnp_m": 2.79,
+    "chart_above_gauge_m": 2.79
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_675C",
+   "slug": "mittelplate",
+   "bsh_slug": "mittelplate",
+   "region": "de",
+   "gauge_id": "675C",
+   "bshnr": "675C",
+   "name": "Mittelplate",
+   "latitude": 54.01222,
+   "longitude": 8.73972,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/mittelplate",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.15,
+    "skn_above_pnp_m": 2.85,
+    "chart_above_gauge_m": 2.85
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_618P",
+   "slug": "munkmarsch",
+   "bsh_slug": "munkmarsch",
+   "region": "de",
+   "gauge_id": "618P",
+   "bshnr": "618P",
+   "name": "Munkmarsch, Sylt",
+   "latitude": 54.92111,
+   "longitude": 8.36333,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/munkmarsch",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.44,
+    "skn_above_pnp_m": 3.56,
+    "chart_above_gauge_m": 3.56
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_678W",
+   "slug": "neuwerk_anleger",
+   "bsh_slug": "neuwerk_anleger",
+   "region": "de",
+   "gauge_id": "678W",
+   "bshnr": "678W",
+   "name": "Neuwerk, Anleger",
+   "latitude": 53.91778,
+   "longitude": 8.48639,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/neuwerk_anleger",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.1,
+    "skn_above_pnp_m": 2.9,
+    "chart_above_gauge_m": 2.9
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_741A",
+   "slug": "nordenham",
+   "bsh_slug": "nordenham",
+   "region": "de",
+   "gauge_id": "741A",
+   "bshnr": "741A",
+   "name": "Nordenham, Weser, Unterfeuer",
+   "latitude": 53.46444,
+   "longitude": 8.48806,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/nordenham",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.62,
+    "skn_above_pnp_m": 2.38,
+    "chart_above_gauge_m": 2.38
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_111P",
+   "slug": "norderney_riffgat",
+   "bsh_slug": "norderney_riffgat",
+   "region": "de",
+   "gauge_id": "111P",
+   "bshnr": "111P",
+   "name": "Norderney, Riffgat",
+   "latitude": 53.69639,
+   "longitude": 7.15778,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/norderney_riffgat",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -1.84,
+    "skn_above_pnp_m": 3.16,
+    "chart_above_gauge_m": 3.16
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_649A",
+   "slug": "nordstrandischmoor",
+   "bsh_slug": "nordstrandischmoor",
+   "region": "de",
+   "gauge_id": "649A",
+   "bshnr": "649A",
+   "name": "Nordstrandischmoor",
+   "latitude": 54.54972,
+   "longitude": 8.79778,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/nordstrandischmoor",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.39,
+    "skn_above_pnp_m": 2.61,
+    "chart_above_gauge_m": 2.61
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_810A",
+   "slug": "nortmoor",
+   "bsh_slug": "nortmoor",
+   "region": "de",
+   "gauge_id": "810A",
+   "bshnr": "810A",
+   "name": "Nortmoor, Altarm Jümme",
+   "latitude": 53.225,
+   "longitude": 7.57583,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/nortmoor",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.0,
+    "chart_above_gauge_m": 5.0
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_748P",
+   "slug": "oldenburg_drielake",
+   "bsh_slug": "oldenburg_drielake",
+   "region": "de",
+   "gauge_id": "748P",
+   "bshnr": "748P",
+   "name": "Oldenburg, Drielake, Hunte",
+   "latitude": 53.14028,
+   "longitude": 8.23417,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/oldenburg_drielake",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -0.87,
+    "skn_above_pnp_m": 4.16,
+    "chart_above_gauge_m": 4.16
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_682P",
+   "slug": "osteriff",
+   "bsh_slug": "osteriff",
+   "region": "de",
+   "gauge_id": "682P",
+   "bshnr": "682P",
+   "name": "Osteriff, Elbe",
+   "latitude": 53.85639,
+   "longitude": 9.03167,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/osteriff",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_628A",
+   "slug": "osterley",
+   "bsh_slug": "osterley",
+   "region": "de",
+   "gauge_id": "628A",
+   "bshnr": "628A",
+   "name": "Osterley",
+   "latitude": 54.84944,
+   "longitude": 8.55583,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/osterley",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -4.99,
+    "skn_below_nhn_m": -1.74,
+    "skn_above_pnp_m": 3.25,
+    "chart_above_gauge_m": 3.25
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_681P",
+   "slug": "otterndorf",
+   "bsh_slug": "otterndorf",
+   "region": "de",
+   "gauge_id": "681P",
+   "bshnr": "681P",
+   "name": "Otterndorf, Elbe",
+   "latitude": 53.83528,
+   "longitude": 8.87083,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/otterndorf",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -1.97,
+    "skn_above_pnp_m": 3.05,
+    "chart_above_gauge_m": 3.05
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_730P",
+   "slug": "over",
+   "bsh_slug": "over",
+   "region": "de",
+   "gauge_id": "730P",
+   "bshnr": "730P",
+   "name": "Over, Elbe",
+   "latitude": 53.42861,
+   "longitude": 10.10111,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/over",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.1,
+    "skn_below_nhn_m": -1.73,
+    "skn_above_pnp_m": 3.37,
+    "chart_above_gauge_m": 3.37
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_814P",
+   "slug": "papenburg",
+   "bsh_slug": "papenburg",
+   "region": "de",
+   "gauge_id": "814P",
+   "bshnr": "814P",
+   "name": "Papenburg, Ems",
+   "latitude": 53.10833,
+   "longitude": 7.36556,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/papenburg",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.06,
+    "skn_below_nhn_m": -2.29,
+    "skn_above_pnp_m": 2.77,
+    "chart_above_gauge_m": 2.77
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_647A",
+   "slug": "pellworm_anleger",
+   "bsh_slug": "pellworm_anleger",
+   "region": "de",
+   "gauge_id": "647A",
+   "bshnr": "647A",
+   "name": "Pellworm, Anleger",
+   "latitude": 54.50083,
+   "longitude": 8.70194,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/pellworm_anleger",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.4,
+    "skn_above_pnp_m": 2.63,
+    "chart_above_gauge_m": 2.63
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_642E",
+   "slug": "pellworm_hoogerfaehre",
+   "bsh_slug": "pellworm_hoogerfaehre",
+   "region": "de",
+   "gauge_id": "642E",
+   "bshnr": "642E",
+   "name": "Pellworm, Hoogerfähre",
+   "latitude": 54.53556,
+   "longitude": 8.59778,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/pellworm_hoogerfaehre",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.14,
+    "skn_above_pnp_m": 2.88,
+    "chart_above_gauge_m": 2.88
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_704R",
+   "slug": "pinnau-sperrwerk_binnenpegel",
+   "bsh_slug": "pinnau-sperrwerk_binnenpegel",
+   "region": "de",
+   "gauge_id": "704R",
+   "bshnr": "704R",
+   "name": "Pinnau-Sperrwerk, Binnenpegel",
+   "latitude": 53.67111,
+   "longitude": 9.55806,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/pinnau-sperrwerk_binnenpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.03,
+    "chart_above_gauge_m": 5.03
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_803P",
+   "slug": "pogum",
+   "bsh_slug": "pogum",
+   "region": "de",
+   "gauge_id": "803P",
+   "bshnr": "803P",
+   "name": "Pogum, Ems",
+   "latitude": 53.32083,
+   "longitude": 7.25917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/pogum",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.05,
+    "skn_below_nhn_m": -2.43,
+    "skn_above_pnp_m": 2.62,
+    "chart_above_gauge_m": 2.62
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_623A",
+   "slug": "rantumdamm",
+   "bsh_slug": "rantumdamm",
+   "region": "de",
+   "gauge_id": "623A",
+   "bshnr": "623A",
+   "name": "Rantumdamm, Sylt",
+   "latitude": 54.86,
+   "longitude": 8.31333,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/rantumdamm",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -1.44,
+    "skn_above_pnp_m": 3.57,
+    "chart_above_gauge_m": 3.57
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_741B",
+   "slug": "rechtenfleth",
+   "bsh_slug": "rechtenfleth",
+   "region": "de",
+   "gauge_id": "741B",
+   "bshnr": "741B",
+   "name": "Rechtenfleth, Weser",
+   "latitude": 53.38111,
+   "longitude": 8.50056,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/rechtenfleth",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.45,
+    "skn_above_pnp_m": 2.55,
+    "chart_above_gauge_m": 2.55
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_747P",
+   "slug": "reithoerne",
+   "bsh_slug": "reithoerne",
+   "region": "de",
+   "gauge_id": "747P",
+   "bshnr": "747P",
+   "name": "Reithörne, Hunte",
+   "latitude": 53.16111,
+   "longitude": 8.3225,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/reithoerne",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -0.87,
+    "skn_above_pnp_m": 4.16,
+    "chart_above_gauge_m": 4.16
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_814B",
+   "slug": "rhede",
+   "bsh_slug": "rhede",
+   "region": "de",
+   "gauge_id": "814B",
+   "bshnr": "814B",
+   "name": "Rhede, Ems",
+   "latitude": 53.07389,
+   "longitude": 7.28778,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/rhede",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -1.93,
+    "skn_above_pnp_m": 3.1,
+    "chart_above_gauge_m": 3.1
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_750B",
+   "slug": "ritterhude",
+   "bsh_slug": "ritterhude",
+   "region": "de",
+   "gauge_id": "750B",
+   "bshnr": "750B",
+   "name": "Ritterhude, Hamme",
+   "latitude": 53.18194,
+   "longitude": 8.76333,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/ritterhude",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.02,
+    "chart_above_gauge_m": 5.02
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_737S",
+   "slug": "robbensuedsteert",
+   "bsh_slug": "robbensuedsteert",
+   "region": "de",
+   "gauge_id": "737S",
+   "bshnr": "737S",
+   "name": "Robbensüdsteert",
+   "latitude": 53.63917,
+   "longitude": 8.44528,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/robbensuedsteert",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.51,
+    "skn_above_pnp_m": 2.49,
+    "chart_above_gauge_m": 2.49
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_642C",
+   "slug": "rummelloch_west",
+   "bsh_slug": "rummelloch_west",
+   "region": "de",
+   "gauge_id": "642C",
+   "bshnr": "642C",
+   "name": "Rummelloch, West",
+   "latitude": 54.48667,
+   "longitude": 8.55278,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/rummelloch_west",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.1,
+    "skn_above_pnp_m": 2.9,
+    "chart_above_gauge_m": 2.9
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_677P",
+   "slug": "scharhoern_bake_c",
+   "bsh_slug": "scharhoern_bake_c",
+   "region": "de",
+   "gauge_id": "677P",
+   "bshnr": "677P",
+   "name": "Scharhörn, Bake C",
+   "latitude": 53.97,
+   "longitude": 8.46806,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/scharhoern_bake_c",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.17,
+    "skn_above_pnp_m": 2.84,
+    "chart_above_gauge_m": 2.84
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_677C",
+   "slug": "scharhoernriff_bake_a",
+   "bsh_slug": "scharhoernriff_bake_a",
+   "region": "de",
+   "gauge_id": "677C",
+   "bshnr": "677C",
+   "name": "Scharhörnriff, Bake A",
+   "latitude": 53.98444,
+   "longitude": 8.31528,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/scharhoernriff_bake_a",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.09,
+    "skn_below_nhn_m": -2.13,
+    "skn_above_pnp_m": 2.96,
+    "chart_above_gauge_m": 2.96
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_761P",
+   "slug": "schillig",
+   "bsh_slug": "schillig",
+   "region": "de",
+   "gauge_id": "761P",
+   "bshnr": "761P",
+   "name": "Schillig",
+   "latitude": 53.69889,
+   "longitude": 8.04694,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/schillig",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.36,
+    "skn_above_pnp_m": 2.66,
+    "chart_above_gauge_m": 2.66
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_638P",
+   "slug": "schluettsiel",
+   "bsh_slug": "schluettsiel",
+   "region": "de",
+   "gauge_id": "638P",
+   "bshnr": "638P",
+   "name": "Schlüttsiel",
+   "latitude": 54.6825,
+   "longitude": 8.755,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/schluettsiel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.29,
+    "skn_above_pnp_m": 2.73,
+    "chart_above_gauge_m": 2.73
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_714P",
+   "slug": "schulau",
+   "bsh_slug": "schulau",
+   "region": "de",
+   "gauge_id": "714P",
+   "bshnr": "714P",
+   "name": "Schulau, Elbe",
+   "latitude": 53.56861,
+   "longitude": 9.70333,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/schulau",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.11,
+    "chart_above_gauge_m": 3.11
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_735A",
+   "slug": "spieka_neufeld",
+   "bsh_slug": "spieka_neufeld",
+   "region": "de",
+   "gauge_id": "735A",
+   "bshnr": "735A",
+   "name": "Spieka Neufeld",
+   "latitude": 53.78806,
+   "longitude": 8.55306,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/spieka_neufeld",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.27,
+    "skn_above_pnp_m": 2.73,
+    "chart_above_gauge_m": 2.73
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_779P",
+   "slug": "spiekeroog",
+   "bsh_slug": "spiekeroog",
+   "region": "de",
+   "gauge_id": "779P",
+   "bshnr": "779P",
+   "name": "Spiekeroog, ehem. Landungsbrücke",
+   "latitude": 53.74917,
+   "longitude": 7.68194,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/spiekeroog",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.08,
+    "skn_below_nhn_m": -1.94,
+    "skn_above_pnp_m": 3.14,
+    "chart_above_gauge_m": 3.14
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_709P",
+   "slug": "stadersand",
+   "bsh_slug": "stadersand",
+   "region": "de",
+   "gauge_id": "709P",
+   "bshnr": "709P",
+   "name": "Stadersand, Schwinge",
+   "latitude": 53.62972,
+   "longitude": 9.52667,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/stadersand",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.05,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.13,
+    "chart_above_gauge_m": 3.13
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_690P",
+   "slug": "stoer-sperrwerk_aussenpegel",
+   "bsh_slug": "stoer-sperrwerk_aussenpegel",
+   "region": "de",
+   "gauge_id": "690P",
+   "bshnr": "690P",
+   "name": "Stör-Sperrwerk, Außenpegel",
+   "latitude": 53.82583,
+   "longitude": 9.40111,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/stoer-sperrwerk_aussenpegel",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -1.92,
+    "skn_above_pnp_m": 3.11,
+    "chart_above_gauge_m": 3.11
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_649P",
+   "slug": "strucklahnungshoern",
+   "bsh_slug": "strucklahnungshoern",
+   "region": "de",
+   "gauge_id": "649P",
+   "bshnr": "649P",
+   "name": "Strucklahnungshörn, Nordstrand, AP",
+   "latitude": 54.49889,
+   "longitude": 8.80639,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/strucklahnungshoern",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.42,
+    "skn_above_pnp_m": 2.6,
+    "chart_above_gauge_m": 2.6
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_645P",
+   "slug": "suederoogsand",
+   "bsh_slug": "suederoogsand",
+   "region": "de",
+   "gauge_id": "645P",
+   "bshnr": "645P",
+   "name": "Süderoogsand",
+   "latitude": 54.42,
+   "longitude": 8.51917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/suederoogsand",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.15,
+    "skn_above_pnp_m": 2.85,
+    "chart_above_gauge_m": 2.85
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_653P",
+   "slug": "suedfall_fahrwasserkante",
+   "bsh_slug": "suedfall_fahrwasserkante",
+   "region": "de",
+   "gauge_id": "653P",
+   "bshnr": "653P",
+   "name": "Südfall, Fahrwasserkante",
+   "latitude": 54.44722,
+   "longitude": 8.7525,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/suedfall_fahrwasserkante",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.37,
+    "skn_above_pnp_m": 2.63,
+    "chart_above_gauge_m": 2.63
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_805P",
+   "slug": "terborg",
+   "bsh_slug": "terborg",
+   "region": "de",
+   "gauge_id": "805P",
+   "bshnr": "805P",
+   "name": "Terborg, Ems",
+   "latitude": 53.29278,
+   "longitude": 7.39611,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/terborg",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.05,
+    "skn_below_nhn_m": -2.35,
+    "skn_above_pnp_m": 2.7,
+    "chart_above_gauge_m": 2.7
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_673P",
+   "slug": "trischen_west",
+   "bsh_slug": "trischen_west",
+   "region": "de",
+   "gauge_id": "673P",
+   "bshnr": "673P",
+   "name": "Trischen, West",
+   "latitude": 54.06417,
+   "longitude": 8.65917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/trischen_west",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.15,
+    "skn_above_pnp_m": 2.85,
+    "chart_above_gauge_m": 2.85
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_706P",
+   "slug": "uetersen",
+   "bsh_slug": "uetersen",
+   "region": "de",
+   "gauge_id": "706P",
+   "bshnr": "706P",
+   "name": "Uetersen, Pinnau",
+   "latitude": 53.67833,
+   "longitude": 9.67722,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/uetersen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.04,
+    "chart_above_gauge_m": 5.04
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_776P",
+   "slug": "vareler_schleuse",
+   "bsh_slug": "vareler_schleuse",
+   "region": "de",
+   "gauge_id": "776P",
+   "bshnr": "776P",
+   "name": "Vareler Schleuse",
+   "latitude": 53.41028,
+   "longitude": 8.18833,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/vareler_schleuse",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.72,
+    "skn_above_pnp_m": 2.31,
+    "chart_above_gauge_m": 2.31
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_777P",
+   "slug": "wangerooge_hafen",
+   "bsh_slug": "wangerooge_hafen",
+   "region": "de",
+   "gauge_id": "777P",
+   "bshnr": "777P",
+   "name": "Wangerooge, Hafen",
+   "latitude": 53.77639,
+   "longitude": 7.86806,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wangerooge_hafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.05,
+    "skn_below_nhn_m": -2.08,
+    "skn_above_pnp_m": 2.97,
+    "chart_above_gauge_m": 2.97
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_754P",
+   "slug": "wangerooge_nord",
+   "bsh_slug": "wangerooge_nord",
+   "region": "de",
+   "gauge_id": "754P",
+   "bshnr": "754P",
+   "name": "Wangerooge, Langes Riff, Nord",
+   "latitude": 53.80639,
+   "longitude": 7.92917,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wangerooge_nord",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -2.08,
+    "skn_above_pnp_m": 2.96,
+    "chart_above_gauge_m": 2.96
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_756P",
+   "slug": "wangerooge_ost",
+   "bsh_slug": "wangerooge_ost",
+   "region": "de",
+   "gauge_id": "756P",
+   "bshnr": "756P",
+   "name": "Wangerooge, Ost",
+   "latitude": 53.76722,
+   "longitude": 7.985,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wangerooge_ost",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -2.13,
+    "skn_above_pnp_m": 2.88,
+    "chart_above_gauge_m": 2.88
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_813P",
+   "slug": "weener",
+   "bsh_slug": "weener",
+   "region": "de",
+   "gauge_id": "813P",
+   "bshnr": "813P",
+   "name": "Weener, Ems",
+   "latitude": 53.16111,
+   "longitude": 7.37194,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/weener",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.06,
+    "skn_below_nhn_m": -2.3,
+    "skn_above_pnp_m": 2.76,
+    "chart_above_gauge_m": 2.76
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_620P",
+   "slug": "westerland",
+   "bsh_slug": "westerland",
+   "region": "de",
+   "gauge_id": "620P",
+   "bshnr": "620P",
+   "name": "Westerland, Sylt",
+   "latitude": 54.90861,
+   "longitude": 8.27111,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/westerland",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.01,
+    "skn_below_nhn_m": -1.5,
+    "skn_above_pnp_m": 3.51,
+    "chart_above_gauge_m": 3.51
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_810P",
+   "slug": "westringaburg",
+   "bsh_slug": "westringaburg",
+   "region": "de",
+   "gauge_id": "810P",
+   "bshnr": "810P",
+   "name": "Westringaburg, Leda",
+   "latitude": 53.20333,
+   "longitude": 7.57139,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/westringaburg",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": 0.0,
+    "skn_above_pnp_m": 5.0,
+    "chart_above_gauge_m": 5.0
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_512P",
+   "slug": "wilhelmshaven_alter_vorhafen",
+   "bsh_slug": "wilhelmshaven_alter_vorhafen",
+   "region": "de",
+   "gauge_id": "512P",
+   "bshnr": "512P",
+   "name": "Wilhelmshaven, Alter Vorhafen",
+   "latitude": 53.51444,
+   "longitude": 8.145,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wilhelmshaven_alter_vorhafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.04,
+    "skn_below_nhn_m": -2.64,
+    "skn_above_pnp_m": 2.4,
+    "chart_above_gauge_m": 2.4
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_770P",
+   "slug": "wilhelmshaven_neuer_vorhafen_seeschleuse",
+   "bsh_slug": "wilhelmshaven_neuer_vorhafen_seeschleuse",
+   "region": "de",
+   "gauge_id": "770P",
+   "bshnr": "770P",
+   "name": "Wilhelmshaven, Neuer Vorhafen, Seeschleuse",
+   "latitude": 53.53028,
+   "longitude": 8.16083,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wilhelmshaven_neuer_vorhafen_seeschleuse",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.64,
+    "skn_above_pnp_m": 2.38,
+    "chart_above_gauge_m": 2.38
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_631P",
+   "slug": "wittduen_hafen",
+   "bsh_slug": "wittduen_hafen",
+   "region": "de",
+   "gauge_id": "631P",
+   "bshnr": "631P",
+   "name": "Wittdün, Amrum, Hafen",
+   "latitude": 54.63167,
+   "longitude": 8.38389,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wittduen_hafen",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.03,
+    "skn_above_pnp_m": 3.0,
+    "chart_above_gauge_m": 3.0
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_735B",
+   "slug": "wremertief",
+   "bsh_slug": "wremertief",
+   "region": "de",
+   "gauge_id": "735B",
+   "bshnr": "735B",
+   "name": "Wremertief",
+   "latitude": 53.64861,
+   "longitude": 8.49472,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wremertief",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.0,
+    "skn_below_nhn_m": -2.5,
+    "skn_above_pnp_m": 2.5,
+    "chart_above_gauge_m": 2.5
+   },
+   "years": [
+    2026
+   ],
+   "has_curve": false
+  },
+  {
+   "id": "DE_BSH_632P",
+   "slug": "wyk",
+   "bsh_slug": "wyk",
+   "region": "de",
+   "gauge_id": "632P",
+   "bshnr": "632P",
+   "name": "Wyk, Föhr",
+   "latitude": 54.69333,
+   "longitude": 8.57639,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/wyk",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.03,
+    "skn_below_nhn_m": -2.15,
+    "skn_above_pnp_m": 2.88,
+    "chart_above_gauge_m": 2.88
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": true
+  },
+  {
+   "id": "DE_BSH_676P",
+   "slug": "zehnerloch",
+   "bsh_slug": "zehnerloch",
+   "region": "de",
+   "gauge_id": "676P",
+   "bshnr": "676P",
+   "name": "Zehnerloch",
+   "latitude": 53.95556,
+   "longitude": 8.65833,
+   "source": "BSH",
+   "source_url": "https://gezeiten.bsh.de/zehnerloch",
+   "prediction_kind": "astronomical",
+   "chart_datum": "SKN",
+   "gauge_datum": "PNP",
+   "datums_m": {
+    "pnp_below_nhn_m": -5.02,
+    "skn_below_nhn_m": -2.04,
+    "skn_above_pnp_m": 2.98,
+    "chart_above_gauge_m": 2.98
+   },
+   "years": [
+    2026,
+    2027
+   ],
+   "has_curve": false
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "station": {
+  "id": "DK_DMI_31616",
+  "slug": "dk-gedser",
+  "gauge_id": "31616",
+  "region": "dk",
+  "name": "Gedser",
+  "latitude": 54.5721,
+  "longitude": 11.9245,
+  "source": "DMI",
+  "source_url": "https://www.dmi.dk/friedata/",
+  "prediction_kind": "astronomical",
+  "chart_datum": "LAT",
+  "gauge_datum": "DVR90",
+  "height_datum": "DVR90",
+  "height_unit": "m",
+  "timezone_note": "DMI liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -0.097
+  },
+  "mean": {
+   "mhw_chart": null,
+   "mnw_chart": 0.075
+  },
+  "attribution": [
+   "Kilde: DMI (Frie Data)",
+   "https://www.dmi.dk/friedata/dokumentation/terms-of-use"
+  ]
+ },
+ "events_by_year": {
+  "2026": []
+ }
+}

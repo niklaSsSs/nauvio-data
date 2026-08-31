@@ -1,0 +1,33 @@
+{
+ "station": {
+  "id": "DK_DMI_31282",
+  "slug": "dk-klintholm-havn",
+  "gauge_id": "31282",
+  "region": "dk",
+  "name": "Klintholm Havn",
+  "latitude": 54.953,
+  "longitude": 12.4651,
+  "source": "DMI",
+  "source_url": "https://www.dmi.dk/friedata/",
+  "prediction_kind": "astronomical",
+  "chart_datum": "LAT",
+  "gauge_datum": "DVR90",
+  "height_datum": "DVR90",
+  "height_unit": "m",
+  "timezone_note": "DMI liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -0.067
+  },
+  "mean": {
+   "mhw_chart": null,
+   "mnw_chart": 0.049
+  },
+  "attribution": [
+   "Kilde: DMI (Frie Data)",
+   "https://www.dmi.dk/friedata/dokumentation/terms-of-use"
+  ]
+ },
+ "events_by_year": {
+  "2026": []
+ }
+}
