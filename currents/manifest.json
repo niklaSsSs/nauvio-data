@@ -1,0 +1,86 @@
+{
+ "source": "BSH",
+ "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
+ "kind": "model_forecast",
+ "generated_utc": "2026-08-31T19:11:41Z",
+ "regions": [
+  {
+   "region": "bal",
+   "region_name": "Ostsee / Baltic (westlicher Teil)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Baltic Sea Physics Analysis and Forecast (NEMO-Nordic) – Oberflächenströmung",
+   "file": "bal.json",
+   "bbox": [
+    9.0416,
+    53.6083,
+    14.986,
+    57.9749
+   ],
+   "reference_time_utc": "2026-08-30T16:00:00Z",
+   "times": [
+    "2026-08-30T16:00:00Z",
+    "2026-09-02T15:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 6037
+  },
+  {
+   "region": "db",
+   "region_name": "Deutsche Bucht",
+   "file": "db.json",
+   "bbox": [
+    6.1736,
+    53.2293,
+    9.4931,
+    56.4458
+   ],
+   "reference_time_utc": "2026-08-31T00:00:00Z",
+   "times": [
+    "2026-08-31T00:15:00Z",
+    "2026-09-01T00:00:00Z"
+   ],
+   "step_min": 15,
+   "num_points": 3761
+  },
+  {
+   "region": "dks",
+   "region_name": "Danmark (Skagerrak, Kattegat)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS North-West European Shelf, analysis & forecast physics (Met Office NEMO) – Oberflächenströmung",
+   "file": "dks.json",
+   "bbox": [
+    7.6061,
+    54.4054,
+    12.9394,
+    57.973
+   ],
+   "reference_time_utc": "2026-08-30T16:00:00Z",
+   "times": [
+    "2026-08-30T16:00:00Z",
+    "2026-09-02T15:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 841
+  },
+  {
+   "region": "nws",
+   "region_name": "Nederland (Noordzee)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS North-West European Shelf, analysis & forecast physics (Met Office NEMO) – Oberflächenströmung",
+   "file": "nws.json",
+   "bbox": [
+    2.5152,
+    51.0,
+    7.4848,
+    55.8649
+   ],
+   "reference_time_utc": "2026-08-30T16:00:00Z",
+   "times": [
+    "2026-08-30T16:00:00Z",
+    "2026-09-02T15:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 2574
+  }
+ ]
+}
