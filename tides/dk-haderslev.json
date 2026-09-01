@@ -1,0 +1,33 @@
+{
+ "station": {
+  "id": "DK_DMI_26089",
+  "slug": "dk-haderslev",
+  "gauge_id": "26089",
+  "region": "dk",
+  "name": "Haderslev",
+  "latitude": 55.2519,
+  "longitude": 9.5092,
+  "source": "DMI",
+  "source_url": "https://www.dmi.dk/friedata/",
+  "prediction_kind": "astronomical",
+  "chart_datum": "LAT",
+  "gauge_datum": "DVR90",
+  "height_datum": "DVR90",
+  "height_unit": "m",
+  "timezone_note": "DMI liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -0.102
+  },
+  "mean": {
+   "mhw_chart": null,
+   "mnw_chart": 0.056
+  },
+  "attribution": [
+   "Kilde: DMI (Frie Data)",
+   "https://www.dmi.dk/friedata/dokumentation/terms-of-use"
+  ]
+ },
+ "events_by_year": {
+  "2027": []
+ }
+}

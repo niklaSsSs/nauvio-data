@@ -1,0 +1,33 @@
+{
+ "station": {
+  "id": "DK_DMI_32096",
+  "slug": "dk-roenne-havn",
+  "gauge_id": "32096",
+  "region": "dk",
+  "name": "Rønne Havn",
+  "latitude": 55.0932,
+  "longitude": 14.6896,
+  "source": "DMI",
+  "source_url": "https://www.dmi.dk/friedata/",
+  "prediction_kind": "astronomical",
+  "chart_datum": "LAT",
+  "gauge_datum": "DVR90",
+  "height_datum": "DVR90",
+  "height_unit": "m",
+  "timezone_note": "DMI liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -0.029
+  },
+  "mean": {
+   "mhw_chart": null,
+   "mnw_chart": 0.006
+  },
+  "attribution": [
+   "Kilde: DMI (Frie Data)",
+   "https://www.dmi.dk/friedata/dokumentation/terms-of-use"
+  ]
+ },
+ "events_by_year": {
+  "2027": []
+ }
+}

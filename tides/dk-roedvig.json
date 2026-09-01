@@ -1,0 +1,33 @@
+{
+ "station": {
+  "id": "DK_DMI_31063",
+  "slug": "dk-roedvig",
+  "gauge_id": "31063",
+  "region": "dk",
+  "name": "Rødvig",
+  "latitude": 55.2543,
+  "longitude": 12.3744,
+  "source": "DMI",
+  "source_url": "https://www.dmi.dk/friedata/",
+  "prediction_kind": "astronomical",
+  "chart_datum": "LAT",
+  "gauge_datum": "DVR90",
+  "height_datum": "DVR90",
+  "height_unit": "m",
+  "timezone_note": "DMI liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -0.054
+  },
+  "mean": {
+   "mhw_chart": null,
+   "mnw_chart": 0.027
+  },
+  "attribution": [
+   "Kilde: DMI (Frie Data)",
+   "https://www.dmi.dk/friedata/dokumentation/terms-of-use"
+  ]
+ },
+ "events_by_year": {
+  "2027": []
+ }
+}

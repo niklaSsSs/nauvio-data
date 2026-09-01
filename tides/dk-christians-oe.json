@@ -1,0 +1,33 @@
+{
+ "station": {
+  "id": "DK_DMI_32002",
+  "slug": "dk-christians-oe",
+  "gauge_id": "32002",
+  "region": "dk",
+  "name": "Christians Ø",
+  "latitude": 55.3207,
+  "longitude": 15.1861,
+  "source": "DMI",
+  "source_url": "https://www.dmi.dk/friedata/",
+  "prediction_kind": "astronomical",
+  "chart_datum": "LAT",
+  "gauge_datum": "DVR90",
+  "height_datum": "DVR90",
+  "height_unit": "m",
+  "timezone_note": "DMI liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -0.032
+  },
+  "mean": {
+   "mhw_chart": null,
+   "mnw_chart": 0.008
+  },
+  "attribution": [
+   "Kilde: DMI (Frie Data)",
+   "https://www.dmi.dk/friedata/dokumentation/terms-of-use"
+  ]
+ },
+ "events_by_year": {
+  "2027": []
+ }
+}
