@@ -2,7 +2,7 @@
  "source": "mehrere (siehe regions[].source)",
  "model": "mehrere (siehe regions[].model)",
  "kind": "model_forecast",
- "generated_utc": "2026-09-01T18:25:39Z",
+ "generated_utc": "2026-09-02T07:54:24Z",
  "regions": [
   {
    "region": "bal",
@@ -16,10 +16,10 @@
     14.986,
     57.9749
    ],
-   "reference_time_utc": "2026-09-01T18:00:00Z",
+   "reference_time_utc": "2026-09-02T07:00:00Z",
    "times": [
-    "2026-09-01T18:00:00Z",
-    "2026-09-04T17:00:00Z"
+    "2026-09-02T07:00:00Z",
+    "2026-09-05T06:00:00Z"
    ],
    "step_min": 60,
    "num_points": 6037
@@ -56,10 +56,10 @@
     12.9394,
     57.973
    ],
-   "reference_time_utc": "2026-09-01T18:00:00Z",
+   "reference_time_utc": "2026-09-02T07:00:00Z",
    "times": [
-    "2026-09-01T18:00:00Z",
-    "2026-09-04T17:00:00Z"
+    "2026-09-02T07:00:00Z",
+    "2026-09-05T06:00:00Z"
    ],
    "step_min": 60,
    "num_points": 841
@@ -76,10 +76,10 @@
     7.4848,
     55.8649
    ],
-   "reference_time_utc": "2026-09-01T18:00:00Z",
+   "reference_time_utc": "2026-09-02T07:00:00Z",
    "times": [
-    "2026-09-01T18:00:00Z",
-    "2026-09-04T17:00:00Z"
+    "2026-09-02T07:00:00Z",
+    "2026-09-05T06:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2574
