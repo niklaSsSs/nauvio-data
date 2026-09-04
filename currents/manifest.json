@@ -1,8 +1,8 @@
 {
- "source": "BSH",
- "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
+ "source": "mehrere (siehe regions[].source)",
+ "model": "mehrere (siehe regions[].model)",
  "kind": "model_forecast",
- "generated_utc": "2026-09-04T16:15:05Z",
+ "generated_utc": "2026-09-04T18:23:51Z",
  "regions": [
   {
    "region": "bal",
@@ -16,10 +16,10 @@
     14.986,
     57.9749
    ],
-   "reference_time_utc": "2026-09-03T18:00:00Z",
+   "reference_time_utc": "2026-09-04T18:00:00Z",
    "times": [
-    "2026-09-03T18:00:00Z",
-    "2026-09-06T17:00:00Z"
+    "2026-09-04T18:00:00Z",
+    "2026-09-07T17:00:00Z"
    ],
    "step_min": 60,
    "num_points": 6037
@@ -40,7 +40,9 @@
     "2026-09-07T00:00:00Z"
    ],
    "step_min": 15,
-   "num_points": 3761
+   "num_points": 3761,
+   "source": "BSH",
+   "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)"
   },
   {
    "region": "dks",
@@ -54,13 +56,53 @@
     12.9394,
     57.973
    ],
-   "reference_time_utc": "2026-09-03T18:00:00Z",
+   "reference_time_utc": "2026-09-04T18:00:00Z",
    "times": [
-    "2026-09-03T18:00:00Z",
-    "2026-09-06T17:00:00Z"
+    "2026-09-04T18:00:00Z",
+    "2026-09-07T17:00:00Z"
    ],
    "step_min": 60,
    "num_points": 841
+  },
+  {
+   "region": "fr",
+   "region_name": "France (Manche, Atlantique, Gascogne)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Iberia–Biscay–Ireland Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "fr.json",
+   "bbox": [
+    -5.9991,
+    43.3048,
+    2.5567,
+    51.1383
+   ],
+   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "times": [
+    "2026-09-04T18:00:00Z",
+    "2026-09-07T17:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 10567
+  },
+  {
+   "region": "frmed",
+   "region_name": "France (Méditerranée, Corse)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "frmed.json",
+   "bbox": [
+    2.9167,
+    41.2292,
+    9.75,
+    43.9792
+   ],
+   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "times": [
+    "2026-09-04T18:00:00Z",
+    "2026-09-07T17:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 2147
   },
   {
    "region": "gr",
@@ -74,10 +116,10 @@
     28.5833,
     40.9375
    ],
-   "reference_time_utc": "2026-09-03T18:00:00Z",
+   "reference_time_utc": "2026-09-04T18:00:00Z",
    "times": [
-    "2026-09-03T18:00:00Z",
-    "2026-09-06T17:00:00Z"
+    "2026-09-04T18:00:00Z",
+    "2026-09-07T17:00:00Z"
    ],
    "step_min": 60,
    "num_points": 5877
@@ -94,10 +136,10 @@
     7.4848,
     55.8649
    ],
-   "reference_time_utc": "2026-09-03T18:00:00Z",
+   "reference_time_utc": "2026-09-04T18:00:00Z",
    "times": [
-    "2026-09-03T18:00:00Z",
-    "2026-09-06T17:00:00Z"
+    "2026-09-04T18:00:00Z",
+    "2026-09-07T17:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2574
