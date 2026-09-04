@@ -1,0 +1,142 @@
+{
+ "station": {
+  "id": "FR_SHOM_DUNK",
+  "slug": "fr-dunkerque",
+  "gauge_id": "dunk",
+  "region": "fr",
+  "name": "Dunkerque",
+  "latitude": 51.0481,
+  "longitude": 2.3667,
+  "source": "SHOM",
+  "source_url": "https://data.shom.fr/",
+  "prediction_kind": "model_forecast",
+  "chart_datum": "LAT",
+  "gauge_datum": "NM",
+  "height_datum": "NM",
+  "height_unit": "m",
+  "timezone_note": "SHOM liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -3.24
+  },
+  "mean": {
+   "mhw_chart": 6.05,
+   "mnw_chart": null
+  },
+  "model": {
+   "name": "NIVEAUX_TOLOSA_R1110_PASCA-200M",
+   "point": {
+    "latitude": 51.0681,
+    "longitude": 2.3667,
+    "km_from_gauge": 2.2
+   },
+   "ram_site": "Dunkerque",
+   "ram_km": 0.2,
+   "horizon_days": 4,
+   "note": "Modellvorhersage Shom/Météo-France (HOMONIM), Tide und Windstau, nicht von Vorhersagern geprüft."
+  },
+  "attribution": [
+   "Licence Ouverte 2.0 (Etalab) — Shom et Météo-France (projet HOMONIM)",
+   "https://data.shom.fr/"
+  ]
+ },
+ "events_by_year": {
+  "2026": [
+   {
+    "time": "2026-09-04T04:08:03Z",
+    "type": "HW",
+    "height_gauge": 2.244,
+    "height_chart": 5.484,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-04T10:48:06Z",
+    "type": "NW",
+    "height_gauge": -1.954,
+    "height_chart": 1.286,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-04T16:29:50Z",
+    "type": "HW",
+    "height_gauge": 2.303,
+    "height_chart": 5.543,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-04T23:22:24Z",
+    "type": "NW",
+    "height_gauge": -1.726,
+    "height_chart": 1.514,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-05T05:08:45Z",
+    "type": "HW",
+    "height_gauge": 2.054,
+    "height_chart": 5.294,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-05T11:48:21Z",
+    "type": "NW",
+    "height_gauge": -1.408,
+    "height_chart": 1.832,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-05T17:32:18Z",
+    "type": "HW",
+    "height_gauge": 1.896,
+    "height_chart": 5.136,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-06T00:47:30Z",
+    "type": "NW",
+    "height_gauge": -1.658,
+    "height_chart": 1.582,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-06T06:23:56Z",
+    "type": "HW",
+    "height_gauge": 1.335,
+    "height_chart": 4.575,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-06T13:31:31Z",
+    "type": "NW",
+    "height_gauge": -1.764,
+    "height_chart": 1.476,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-06T19:19:33Z",
+    "type": "HW",
+    "height_gauge": 1.429,
+    "height_chart": 4.669,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-07T02:28:02Z",
+    "type": "NW",
+    "height_gauge": -1.967,
+    "height_chart": 1.273,
+    "moon": null,
+    "phase": null
+   }
+  ]
+ }
+}

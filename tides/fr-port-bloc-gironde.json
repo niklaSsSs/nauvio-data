@@ -1,0 +1,142 @@
+{
+ "station": {
+  "id": "FR_SHOM_PORT",
+  "slug": "fr-port-bloc-gironde",
+  "gauge_id": "port",
+  "region": "fr",
+  "name": "Port-Bloc (Gironde)",
+  "latitude": 45.5685,
+  "longitude": -1.0616,
+  "source": "SHOM",
+  "source_url": "https://data.shom.fr/",
+  "prediction_kind": "model_forecast",
+  "chart_datum": "LAT",
+  "gauge_datum": "NM",
+  "height_datum": "NM",
+  "height_unit": "m",
+  "timezone_note": "SHOM liefert UTC; gespeichert wird UTC.",
+  "datums_m": {
+   "chart_above_gauge_m": -3.29
+  },
+  "mean": {
+   "mhw_chart": 5.3,
+   "mnw_chart": null
+  },
+  "model": {
+   "name": "NIVEAUX_TOLOSA_R1140_AQUI-200M",
+   "point": {
+    "latitude": 45.5685,
+    "longitude": -1.0616,
+    "km_from_gauge": 0.0
+   },
+   "ram_site": "Pointe de Grave",
+   "ram_km": 0.4,
+   "horizon_days": 4,
+   "note": "Modellvorhersage Shom/Météo-France (HOMONIM), Tide und Windstau, nicht von Vorhersagern geprüft."
+  },
+  "attribution": [
+   "Licence Ouverte 2.0 (Etalab) — Shom et Météo-France (projet HOMONIM)",
+   "https://data.shom.fr/"
+  ]
+ },
+ "events_by_year": {
+  "2026": [
+   {
+    "time": "2026-09-04T02:04:16Z",
+    "type": "NW",
+    "height_gauge": -1.401,
+    "height_chart": 1.889,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-04T08:32:48Z",
+    "type": "HW",
+    "height_gauge": 1.211,
+    "height_chart": 4.501,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-04T14:43:02Z",
+    "type": "NW",
+    "height_gauge": -1.335,
+    "height_chart": 1.955,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-04T21:09:46Z",
+    "type": "HW",
+    "height_gauge": 1.024,
+    "height_chart": 4.314,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-05T03:12:00Z",
+    "type": "NW",
+    "height_gauge": -1.157,
+    "height_chart": 2.133,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-05T09:50:18Z",
+    "type": "HW",
+    "height_gauge": 0.973,
+    "height_chart": 4.263,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-05T16:02:52Z",
+    "type": "NW",
+    "height_gauge": -1.231,
+    "height_chart": 2.059,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-05T22:52:57Z",
+    "type": "HW",
+    "height_gauge": 0.821,
+    "height_chart": 4.111,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-06T04:41:36Z",
+    "type": "NW",
+    "height_gauge": -1.055,
+    "height_chart": 2.235,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-06T11:39:50Z",
+    "type": "HW",
+    "height_gauge": 1.093,
+    "height_chart": 4.383,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-06T17:24:33Z",
+    "type": "NW",
+    "height_gauge": -1.194,
+    "height_chart": 2.096,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-07T00:38:01Z",
+    "type": "HW",
+    "height_gauge": 1.059,
+    "height_chart": 4.349,
+    "moon": null,
+    "phase": null
+   }
+  ]
+ }
+}
