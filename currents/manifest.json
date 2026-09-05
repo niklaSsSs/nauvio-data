@@ -1,8 +1,8 @@
 {
- "source": "mehrere (siehe regions[].source)",
- "model": "mehrere (siehe regions[].model)",
+ "source": "BSH",
+ "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
  "kind": "model_forecast",
- "generated_utc": "2026-09-04T18:23:51Z",
+ "generated_utc": "2026-09-05T10:28:36Z",
  "regions": [
   {
    "region": "bal",
@@ -34,15 +34,13 @@
     9.4931,
     56.4458
    ],
-   "reference_time_utc": "2026-09-04T00:00:00Z",
+   "reference_time_utc": "2026-09-05T00:00:00Z",
    "times": [
-    "2026-09-04T00:15:00Z",
-    "2026-09-07T00:00:00Z"
+    "2026-09-05T00:15:00Z",
+    "2026-09-08T00:00:00Z"
    ],
    "step_min": 15,
-   "num_points": 3761,
-   "source": "BSH",
-   "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)"
+   "num_points": 3761
   },
   {
    "region": "dks",
