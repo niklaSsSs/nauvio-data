@@ -1,8 +1,8 @@
 {
- "source": "BSH",
- "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
+ "source": "mehrere (siehe regions[].source)",
+ "model": "mehrere (siehe regions[].model)",
  "kind": "model_forecast",
- "generated_utc": "2026-09-05T10:28:36Z",
+ "generated_utc": "2026-09-05T11:09:00Z",
  "regions": [
   {
    "region": "bal",
@@ -16,10 +16,10 @@
     14.986,
     57.9749
    ],
-   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "reference_time_utc": "2026-09-05T11:00:00Z",
    "times": [
-    "2026-09-04T18:00:00Z",
-    "2026-09-07T17:00:00Z"
+    "2026-09-05T11:00:00Z",
+    "2026-09-08T10:00:00Z"
    ],
    "step_min": 60,
    "num_points": 6037
@@ -40,7 +40,9 @@
     "2026-09-08T00:00:00Z"
    ],
    "step_min": 15,
-   "num_points": 3761
+   "num_points": 3761,
+   "source": "BSH",
+   "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)"
   },
   {
    "region": "dks",
@@ -54,10 +56,10 @@
     12.9394,
     57.973
    ],
-   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "reference_time_utc": "2026-09-05T11:00:00Z",
    "times": [
-    "2026-09-04T18:00:00Z",
-    "2026-09-07T17:00:00Z"
+    "2026-09-05T11:00:00Z",
+    "2026-09-08T10:00:00Z"
    ],
    "step_min": 60,
    "num_points": 841
@@ -74,10 +76,10 @@
     2.5567,
     51.1383
    ],
-   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "reference_time_utc": "2026-09-05T11:00:00Z",
    "times": [
-    "2026-09-04T18:00:00Z",
-    "2026-09-07T17:00:00Z"
+    "2026-09-05T11:00:00Z",
+    "2026-09-08T10:00:00Z"
    ],
    "step_min": 60,
    "num_points": 10567
@@ -94,10 +96,10 @@
     9.75,
     43.9792
    ],
-   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "reference_time_utc": "2026-09-05T11:00:00Z",
    "times": [
-    "2026-09-04T18:00:00Z",
-    "2026-09-07T17:00:00Z"
+    "2026-09-05T11:00:00Z",
+    "2026-09-08T10:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2147
@@ -114,10 +116,10 @@
     28.5833,
     40.9375
    ],
-   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "reference_time_utc": "2026-09-05T11:00:00Z",
    "times": [
-    "2026-09-04T18:00:00Z",
-    "2026-09-07T17:00:00Z"
+    "2026-09-05T11:00:00Z",
+    "2026-09-08T10:00:00Z"
    ],
    "step_min": 60,
    "num_points": 5877
@@ -134,10 +136,10 @@
     7.4848,
     55.8649
    ],
-   "reference_time_utc": "2026-09-04T18:00:00Z",
+   "reference_time_utc": "2026-09-05T11:00:00Z",
    "times": [
-    "2026-09-04T18:00:00Z",
-    "2026-09-07T17:00:00Z"
+    "2026-09-05T11:00:00Z",
+    "2026-09-08T10:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2574
