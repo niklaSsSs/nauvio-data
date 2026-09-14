@@ -2,7 +2,7 @@
  "source": "mehrere (siehe regions[].source)",
  "model": "mehrere (siehe regions[].model)",
  "kind": "model_forecast",
- "generated_utc": "2026-09-13T18:10:51Z",
+ "generated_utc": "2026-09-14T08:55:57Z",
  "regions": [
   {
    "region": "bal",
@@ -16,10 +16,10 @@
     14.986,
     57.9749
    ],
-   "reference_time_utc": "2026-09-13T18:00:00Z",
+   "reference_time_utc": "2026-09-14T08:00:00Z",
    "times": [
-    "2026-09-13T18:00:00Z",
-    "2026-09-16T17:00:00Z"
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
    ],
    "step_min": 60,
    "num_points": 6037
@@ -56,10 +56,10 @@
     12.9394,
     57.973
    ],
-   "reference_time_utc": "2026-09-13T18:00:00Z",
+   "reference_time_utc": "2026-09-14T08:00:00Z",
    "times": [
-    "2026-09-13T18:00:00Z",
-    "2026-09-16T17:00:00Z"
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
    ],
    "step_min": 60,
    "num_points": 841
@@ -76,10 +76,10 @@
     2.5567,
     51.1383
    ],
-   "reference_time_utc": "2026-09-13T18:00:00Z",
+   "reference_time_utc": "2026-09-14T08:00:00Z",
    "times": [
-    "2026-09-13T18:00:00Z",
-    "2026-09-16T17:00:00Z"
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
    ],
    "step_min": 60,
    "num_points": 10567
@@ -96,10 +96,10 @@
     9.75,
     43.9792
    ],
-   "reference_time_utc": "2026-09-13T18:00:00Z",
+   "reference_time_utc": "2026-09-14T08:00:00Z",
    "times": [
-    "2026-09-13T18:00:00Z",
-    "2026-09-16T17:00:00Z"
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2147
@@ -116,13 +116,113 @@
     28.5833,
     40.9375
    ],
-   "reference_time_utc": "2026-09-13T18:00:00Z",
+   "reference_time_utc": "2026-09-14T08:00:00Z",
    "times": [
-    "2026-09-13T18:00:00Z",
-    "2026-09-16T17:00:00Z"
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
    ],
    "step_min": 60,
    "num_points": 5877
+  },
+  {
+   "region": "nofinn",
+   "region_name": "Norge (Finnmark)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "nofinn.json",
+   "bbox": [
+    22.0,
+    69.5,
+    31.5833,
+    71.5833
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1393
+  },
+  {
+   "region": "nomidt",
+   "region_name": "Norge (Trøndelag, Helgeland)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "nomidt.json",
+   "bbox": [
+    4.0,
+    62.5,
+    14.25,
+    66.75
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 4181
+  },
+  {
+   "region": "nonord",
+   "region_name": "Norge (Salten, Lofoten, Troms)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "nonord.json",
+   "bbox": [
+    4.0,
+    66.8333,
+    22.0,
+    71.5833
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 9573
+  },
+  {
+   "region": "nosor",
+   "region_name": "Norge (Oslofjorden, Sørlandet, Rogaland)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS North-West European Shelf, analysis & forecast physics (Met Office NEMO) – Oberflächenströmung",
+   "file": "nosor.json",
+   "bbox": [
+    4.0,
+    57.4054,
+    11.4545,
+    60.0
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 6406
+  },
+  {
+   "region": "novest",
+   "region_name": "Norge (Vestlandet)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS North-West European Shelf, analysis & forecast physics (Met Office NEMO) – Oberflächenströmung",
+   "file": "novest.json",
+   "bbox": [
+    4.0,
+    59.6081,
+    8.6667,
+    62.7432
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 2583
   },
   {
    "region": "nws",
@@ -136,13 +236,73 @@
     7.4848,
     55.8649
    ],
-   "reference_time_utc": "2026-09-13T18:00:00Z",
+   "reference_time_utc": "2026-09-14T08:00:00Z",
    "times": [
-    "2026-09-13T18:00:00Z",
-    "2026-09-16T17:00:00Z"
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2574
+  },
+  {
+   "region": "pt",
+   "region_name": "Portugal (Continente)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Iberia–Biscay–Ireland Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "pt.json",
+   "bbox": [
+    -9.9992,
+    36.8046,
+    -7.388,
+    42.027
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1959
+  },
+  {
+   "region": "ptaco",
+   "region_name": "Portugal (Açores)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "ptaco.json",
+   "bbox": [
+    -31.5,
+    36.8333,
+    -24.75,
+    39.8333
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 2993
+  },
+  {
+   "region": "ptmad",
+   "region_name": "Portugal (Madeira)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Iberia–Biscay–Ireland Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "ptmad.json",
+   "bbox": [
+    -17.4995,
+    29.9155,
+    -15.7216,
+    33.1934
+   ],
+   "reference_time_utc": "2026-09-14T08:00:00Z",
+   "times": [
+    "2026-09-14T08:00:00Z",
+    "2026-09-17T07:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1938
   }
  ]
 }
