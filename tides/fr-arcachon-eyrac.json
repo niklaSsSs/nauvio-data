@@ -42,58 +42,26 @@
  "events_by_year": {
   "2026": [
    {
-    "time": "2026-09-14T06:00:42Z",
+    "time": "2026-09-15T06:28:33Z",
     "type": "HW",
-    "height_gauge": 1.86,
-    "height_chart": 4.34,
+    "height_gauge": 1.709,
+    "height_chart": 4.189,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-09-14T12:16:32Z",
+    "time": "2026-09-15T12:52:37Z",
     "type": "NW",
-    "height_gauge": -1.873,
-    "height_chart": 0.607,
+    "height_gauge": -1.686,
+    "height_chart": 0.794,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-09-14T18:15:28Z",
+    "time": "2026-09-15T18:48:31Z",
     "type": "HW",
-    "height_gauge": 1.881,
-    "height_chart": 4.361,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-09-15T00:40:31Z",
-    "type": "NW",
-    "height_gauge": -1.696,
-    "height_chart": 0.784,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-09-15T06:30:07Z",
-    "type": "HW",
-    "height_gauge": 1.714,
-    "height_chart": 4.194,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-09-15T12:52:00Z",
-    "type": "NW",
-    "height_gauge": -1.667,
-    "height_chart": 0.813,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-09-15T18:47:31Z",
-    "type": "HW",
-    "height_gauge": 1.652,
-    "height_chart": 4.132,
+    "height_gauge": 1.631,
+    "height_chart": 4.111,
     "moon": null,
     "phase": null
    },
@@ -106,23 +74,23 @@
     "phase": null
    },
    {
-    "time": "2026-09-16T06:57:15Z",
+    "time": "2026-09-16T06:57:38Z",
     "type": "HW",
-    "height_gauge": 1.431,
-    "height_chart": 3.911,
+    "height_gauge": 1.441,
+    "height_chart": 3.921,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-09-16T13:20:26Z",
+    "time": "2026-09-16T13:20:13Z",
     "type": "NW",
-    "height_gauge": -1.495,
-    "height_chart": 0.985,
+    "height_gauge": -1.494,
+    "height_chart": 0.986,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-09-16T19:12:36Z",
+    "time": "2026-09-16T19:12:48Z",
     "type": "HW",
     "height_gauge": 1.271,
     "height_chart": 3.751,
@@ -130,10 +98,10 @@
     "phase": null
    },
    {
-    "time": "2026-09-17T01:37:51Z",
+    "time": "2026-09-17T01:36:15Z",
     "type": "NW",
-    "height_gauge": -1.249,
-    "height_chart": 1.231,
+    "height_gauge": -1.241,
+    "height_chart": 1.239,
     "moon": null,
     "phase": null
    },
@@ -156,8 +124,40 @@
    {
     "time": "2026-09-17T19:48:43Z",
     "type": "HW",
-    "height_gauge": 0.986,
-    "height_chart": 3.466,
+    "height_gauge": 1.006,
+    "height_chart": 3.486,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-18T02:10:53Z",
+    "type": "NW",
+    "height_gauge": -0.925,
+    "height_chart": 1.555,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-18T07:58:12Z",
+    "type": "HW",
+    "height_gauge": 0.97,
+    "height_chart": 3.45,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-18T14:47:55Z",
+    "type": "NW",
+    "height_gauge": -0.906,
+    "height_chart": 1.574,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-09-18T20:23:00Z",
+    "type": "HW",
+    "height_gauge": 0.659,
+    "height_chart": 3.139,
     "moon": null,
     "phase": null
    }
