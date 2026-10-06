@@ -42,63 +42,31 @@
  "events_by_year": {
   "2026": [
    {
-    "time": "2026-10-05T04:34:46Z",
+    "time": "2026-10-06T05:56:50Z",
     "type": "NW",
-    "height_gauge": -1.024,
-    "height_chart": 2.166,
+    "height_gauge": -1.171,
+    "height_chart": 2.019,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-05T11:24:23Z",
+    "time": "2026-10-06T12:38:55Z",
     "type": "HW",
-    "height_gauge": 1.045,
-    "height_chart": 4.235,
+    "height_gauge": 1.42,
+    "height_chart": 4.61,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-05T17:29:32Z",
+    "time": "2026-10-06T18:36:09Z",
     "type": "NW",
-    "height_gauge": -1.296,
-    "height_chart": 1.894,
+    "height_gauge": -1.488,
+    "height_chart": 1.702,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-06T00:16:42Z",
-    "type": "HW",
-    "height_gauge": 1.009,
-    "height_chart": 4.199,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-10-06T05:56:25Z",
-    "type": "NW",
-    "height_gauge": -1.161,
-    "height_chart": 2.029,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-10-06T12:38:56Z",
-    "type": "HW",
-    "height_gauge": 1.431,
-    "height_chart": 4.621,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-10-06T18:36:04Z",
-    "type": "NW",
-    "height_gauge": -1.487,
-    "height_chart": 1.703,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-10-07T01:15:09Z",
+    "time": "2026-10-07T01:15:24Z",
     "type": "HW",
     "height_gauge": 1.442,
     "height_chart": 4.632,
@@ -106,58 +74,90 @@
     "phase": null
    },
    {
-    "time": "2026-10-07T06:58:29Z",
+    "time": "2026-10-07T06:59:02Z",
     "type": "NW",
-    "height_gauge": -1.43,
-    "height_chart": 1.76,
+    "height_gauge": -1.46,
+    "height_chart": 1.73,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-07T13:34:47Z",
+    "time": "2026-10-07T13:38:11Z",
     "type": "HW",
-    "height_gauge": 1.71,
-    "height_chart": 4.9,
+    "height_gauge": 1.662,
+    "height_chart": 4.852,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-07T19:27:45Z",
+    "time": "2026-10-07T19:27:52Z",
     "type": "NW",
-    "height_gauge": -1.965,
-    "height_chart": 1.225,
+    "height_gauge": -2.004,
+    "height_chart": 1.186,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-08T02:04:31Z",
+    "time": "2026-10-08T02:05:23Z",
     "type": "HW",
-    "height_gauge": 1.491,
-    "height_chart": 4.681,
+    "height_gauge": 1.472,
+    "height_chart": 4.662,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-08T07:46:57Z",
+    "time": "2026-10-08T07:42:43Z",
     "type": "NW",
-    "height_gauge": -2.022,
-    "height_chart": 1.168,
+    "height_gauge": -2.03,
+    "height_chart": 1.16,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-08T14:25:41Z",
+    "time": "2026-10-08T14:27:09Z",
     "type": "HW",
-    "height_gauge": 1.786,
-    "height_chart": 4.976,
+    "height_gauge": 1.789,
+    "height_chart": 4.979,
     "moon": null,
     "phase": null
    },
    {
-    "time": "2026-10-08T20:10:19Z",
+    "time": "2026-10-08T20:10:06Z",
     "type": "NW",
-    "height_gauge": -2.279,
-    "height_chart": 0.911,
+    "height_gauge": -2.249,
+    "height_chart": 0.941,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-10-09T02:50:31Z",
+    "type": "HW",
+    "height_gauge": 1.788,
+    "height_chart": 4.978,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-10-09T08:25:04Z",
+    "type": "NW",
+    "height_gauge": -2.151,
+    "height_chart": 1.039,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-10-09T15:01:52Z",
+    "type": "HW",
+    "height_gauge": 2.08,
+    "height_chart": 5.27,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-10-09T20:51:55Z",
+    "type": "NW",
+    "height_gauge": -2.286,
+    "height_chart": 0.904,
     "moon": null,
     "phase": null
    }
