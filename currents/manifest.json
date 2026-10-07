@@ -1,8 +1,8 @@
 {
- "source": "BSH",
- "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
+ "source": "mehrere (siehe regions[].source)",
+ "model": "mehrere (siehe regions[].model)",
  "kind": "model_forecast",
- "generated_utc": "2026-10-07T13:10:26Z",
+ "generated_utc": "2026-10-07T17:56:37Z",
  "regions": [
   {
    "region": "bal",
@@ -40,7 +40,9 @@
     "2026-10-10T00:00:00Z"
    ],
    "step_min": 15,
-   "num_points": 3761
+   "num_points": 3761,
+   "source": "BSH",
+   "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)"
   },
   {
    "region": "dks",
@@ -341,6 +343,466 @@
    ],
    "step_min": 60,
    "num_points": 1938
+  },
+  {
+   "region": "usakal",
+   "region_name": "United States (Aleuten)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usakal.json",
+   "bbox": [
+    -180.0,
+    50.5,
+    -154.0,
+    59.25
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 31103
+  },
+  {
+   "region": "usakark",
+   "region_name": "United States (Arktis)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usakark.json",
+   "bbox": [
+    -168.0,
+    66.0,
+    -140.0,
+    71.75
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 8024
+  },
+  {
+   "region": "usakber",
+   "region_name": "United States (Beringsee)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usakber.json",
+   "bbox": [
+    -170.0,
+    58.0,
+    -157.0,
+    66.0
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 7471
+  },
+  {
+   "region": "usakpws",
+   "region_name": "United States (Prince William Sound und Cook Inlet)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usakpws.json",
+   "bbox": [
+    -154.0,
+    56.5,
+    -143.5,
+    61.5833
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 5481
+  },
+  {
+   "region": "usakse",
+   "region_name": "United States (Südost-Alaska)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usakse.json",
+   "bbox": [
+    -140.1667,
+    54.4167,
+    -130.0,
+    59.5833
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 4156
+  },
+  {
+   "region": "uscaln",
+   "region_name": "United States (Nordkalifornien)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "uscaln.json",
+   "bbox": [
+    -125.0,
+    34.4167,
+    -119.75,
+    42.1667
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 2595
+  },
+  {
+   "region": "uscals",
+   "region_name": "United States (Südkalifornien)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "uscals.json",
+   "bbox": [
+    -120.8333,
+    32.3333,
+    -117.0,
+    34.3333
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 910
+  },
+  {
+   "region": "usches",
+   "region_name": "United States (Chesapeake Bay)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usches.json",
+   "bbox": [
+    -77.5,
+    36.5833,
+    -75.3333,
+    39.6667
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 281
+  },
+  {
+   "region": "usfle",
+   "region_name": "United States (Florida, Ostküste)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usfle.json",
+   "bbox": [
+    -81.75,
+    25.75,
+    -79.9167,
+    30.5833
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 557
+  },
+  {
+   "region": "usflk",
+   "region_name": "United States (Florida Keys)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usflk.json",
+   "bbox": [
+    -83.0,
+    24.3333,
+    -79.9167,
+    25.6667
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 589
+  },
+  {
+   "region": "usflw",
+   "region_name": "United States (Florida, Westküste)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usflw.json",
+   "bbox": [
+    -83.8333,
+    25.75,
+    -81.0,
+    29.5833
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 828
+  },
+  {
+   "region": "usgulfe",
+   "region_name": "United States (Golf, Panhandle)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usgulfe.json",
+   "bbox": [
+    -88.1667,
+    29.0,
+    -83.9167,
+    30.8333
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 764
+  },
+  {
+   "region": "usgulfm",
+   "region_name": "United States (Mississippi-Delta)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usgulfm.json",
+   "bbox": [
+    -92.0,
+    28.4167,
+    -88.25,
+    30.5
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 736
+  },
+  {
+   "region": "usgulfw",
+   "region_name": "United States (Texas)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usgulfw.json",
+   "bbox": [
+    -97.5833,
+    25.8333,
+    -92.0,
+    30.3333
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 2572
+  },
+  {
+   "region": "ushi",
+   "region_name": "United States (Hawaii)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "ushi.json",
+   "bbox": [
+    -160.8333,
+    18.6667,
+    -154.4167,
+    22.75
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 3729
+  },
+  {
+   "region": "uslis",
+   "region_name": "United States (Long Island Sound)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "uslis.json",
+   "bbox": [
+    -73.9167,
+    40.75,
+    -71.25,
+    41.8333
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 157
+  },
+  {
+   "region": "usmaine",
+   "region_name": "United States (Golf von Maine)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usmaine.json",
+   "bbox": [
+    -70.9167,
+    42.75,
+    -66.9167,
+    45.0833
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 829
+  },
+  {
+   "region": "usmass",
+   "region_name": "United States (Massachusetts)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usmass.json",
+   "bbox": [
+    -71.1667,
+    41.25,
+    -69.9167,
+    42.75
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 203
+  },
+  {
+   "region": "usmid",
+   "region_name": "United States (Mittelatlantik)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usmid.json",
+   "bbox": [
+    -75.5833,
+    38.6667,
+    -73.75,
+    41.6667
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 232
+  },
+  {
+   "region": "usnc",
+   "region_name": "United States (North Carolina)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usnc.json",
+   "bbox": [
+    -78.0833,
+    33.5833,
+    -75.3333,
+    36.5
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 655
+  },
+  {
+   "region": "usnw",
+   "region_name": "United States (Pazifischer Nordwesten)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "usnw.json",
+   "bbox": [
+    -125.0,
+    42.25,
+    -122.0,
+    49.0833
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 912
+  },
+  {
+   "region": "uspr",
+   "region_name": "United States (Puerto Rico und Jungferninseln)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "uspr.json",
+   "bbox": [
+    -67.8333,
+    17.3333,
+    -64.4167,
+    18.8333
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 685
+  },
+  {
+   "region": "ussc",
+   "region_name": "United States (Carolina und Georgia)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Global Ocean Physics Analysis and Forecast (NEMO 1/12°, mit Gezeiten und Wellendrift) – Oberflächenströmung",
+   "file": "ussc.json",
+   "bbox": [
+    -81.5833,
+    30.6667,
+    -78.1667,
+    34.0
+   ],
+   "reference_time_utc": "2026-10-07T17:00:00Z",
+   "times": [
+    "2026-10-07T17:00:00Z",
+    "2026-10-10T16:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1058
   }
  ]
 }
