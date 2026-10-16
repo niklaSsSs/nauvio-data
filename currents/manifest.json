@@ -2,7 +2,7 @@
  "source": "BSH",
  "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
  "kind": "model_forecast",
- "generated_utc": "2026-10-16T11:13:02Z",
+ "generated_utc": "2026-10-16T16:31:36Z",
  "regions": [
   {
    "region": "bal",
