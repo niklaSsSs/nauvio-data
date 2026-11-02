@@ -1,8 +1,8 @@
 {
- "source": "BSH",
- "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)",
+ "source": "mehrere (siehe regions[].source)",
+ "model": "mehrere (siehe regions[].model)",
  "kind": "model_forecast",
- "generated_utc": "2026-11-02T14:25:37Z",
+ "generated_utc": "2026-11-02T14:38:26Z",
  "regions": [
   {
    "region": "bal",
@@ -16,10 +16,10 @@
     14.986,
     57.9749
    ],
-   "reference_time_utc": "2026-11-02T10:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T10:00:00Z",
-    "2026-11-05T09:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 6037
@@ -40,7 +40,9 @@
     "2026-11-05T00:00:00Z"
    ],
    "step_min": 15,
-   "num_points": 3761
+   "num_points": 3761,
+   "source": "BSH",
+   "model": "BSH Zirkulationsmodell (operationell, HBM) – Oberflächenströmung (Mittel obere ~5 m)"
   },
   {
    "region": "dks",
@@ -54,13 +56,73 @@
     12.9394,
     57.973
    ],
-   "reference_time_utc": "2026-11-02T10:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T10:00:00Z",
-    "2026-11-05T09:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 841
+  },
+  {
+   "region": "es",
+   "region_name": "España (Mediterráneo)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "es.json",
+   "bbox": [
+    -5.625,
+    35.9792,
+    3.375,
+    42.3958
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 3141
+  },
+  {
+   "region": "esatl",
+   "region_name": "España (Atlántico)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Iberia–Biscay–Ireland Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "esatl.json",
+   "bbox": [
+    -9.5825,
+    41.8603,
+    -1.8045,
+    43.8603
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1296
+  },
+  {
+   "region": "esbal",
+   "region_name": "España (Illes Balears)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "esbal.json",
+   "bbox": [
+    1.1667,
+    38.6042,
+    4.3333,
+    40.1042
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 658
   },
   {
    "region": "fr",
@@ -74,10 +136,10 @@
     2.5567,
     51.1383
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 10567
@@ -94,10 +156,10 @@
     9.75,
     43.9792
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2147
@@ -114,13 +176,153 @@
     28.5833,
     40.9375
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 5877
+  },
+  {
+   "region": "hr",
+   "region_name": "Hrvatska (Jadran)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "hr.json",
+   "bbox": [
+    13.0,
+    42.2292,
+    18.6667,
+    45.5625
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1155
+  },
+  {
+   "region": "itadr",
+   "region_name": "Italia (Adriatico)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "itadr.json",
+   "bbox": [
+    12.0833,
+    39.7708,
+    18.5833,
+    45.8542
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 2607
+  },
+  {
+   "region": "ition",
+   "region_name": "Italia (Ionio)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "ition.json",
+   "bbox": [
+    15.875,
+    37.8125,
+    17.375,
+    39.7292
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 267
+  },
+  {
+   "region": "itsar",
+   "region_name": "Italia (Sardegna)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "itsar.json",
+   "bbox": [
+    8.0,
+    38.7708,
+    10.0,
+    41.2708
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 396
+  },
+  {
+   "region": "itsic",
+   "region_name": "Italia (Sicilia)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "itsic.json",
+   "bbox": [
+    11.75,
+    35.4375,
+    15.75,
+    38.8542
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1655
+  },
+  {
+   "region": "ittir",
+   "region_name": "Italia (Tirreno, Liguria)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "ittir.json",
+   "bbox": [
+    7.625,
+    38.3542,
+    16.2917,
+    44.4375
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 5133
+  },
+  {
+   "region": "mt",
+   "region_name": "Malta",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Mediterranean Sea Physics Analysis and Forecast (NEMO, mit Gezeiten) – Oberflächenströmung",
+   "file": "mt.json",
+   "bbox": [
+    14.0833,
+    35.7292,
+    14.7083,
+    36.1458
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 149
   },
   {
    "region": "nofinn",
@@ -134,10 +336,10 @@
     31.5833,
     71.5833
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 1393
@@ -154,10 +356,10 @@
     14.25,
     66.75
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 4181
@@ -174,10 +376,10 @@
     22.0,
     71.5833
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 9573
@@ -194,10 +396,10 @@
     11.4545,
     60.0
    ],
-   "reference_time_utc": "2026-11-02T10:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T10:00:00Z",
-    "2026-11-05T09:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 6406
@@ -214,10 +416,10 @@
     8.6667,
     62.7432
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2583
@@ -234,10 +436,10 @@
     7.4848,
     55.8649
    ],
-   "reference_time_utc": "2026-11-02T10:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T10:00:00Z",
-    "2026-11-05T09:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2574
@@ -254,10 +456,10 @@
     17.1805,
     55.5416
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 8227
@@ -274,10 +476,10 @@
     19.8472,
     55.9416
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 7893
@@ -294,10 +496,10 @@
     -7.388,
     42.027
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 1959
@@ -314,10 +516,10 @@
     -24.75,
     39.8333
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 2993
@@ -334,13 +536,93 @@
     -15.7216,
     33.1934
    ],
-   "reference_time_utc": "2026-11-02T11:00:00Z",
+   "reference_time_utc": "2026-11-02T14:00:00Z",
    "times": [
-    "2026-11-02T11:00:00Z",
-    "2026-11-05T10:00:00Z"
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
    ],
    "step_min": 60,
    "num_points": 1938
+  },
+  {
+   "region": "se",
+   "region_name": "Sverige (Västkusten, Öresund)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Baltic Sea Physics Analysis and Forecast (NEMO-Nordic) – Oberflächenströmung",
+   "file": "se.json",
+   "bbox": [
+    11.0138,
+    55.3083,
+    13.1805,
+    58.9415
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 1885
+  },
+  {
+   "region": "sebotn",
+   "region_name": "Sverige (Bottenviken)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Baltic Sea Physics Analysis and Forecast (NEMO-Nordic) – Oberflächenströmung",
+   "file": "sebotn.json",
+   "bbox": [
+    19.4028,
+    63.5081,
+    24.2918,
+    65.8743
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 3178
+  },
+  {
+   "region": "sebott",
+   "region_name": "Sverige (Bottenhavet)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Baltic Sea Physics Analysis and Forecast (NEMO-Nordic) – Oberflächenströmung",
+   "file": "sebott.json",
+   "bbox": [
+    17.0138,
+    59.9082,
+    20.4584,
+    63.4748
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 4926
+  },
+  {
+   "region": "seost",
+   "region_name": "Sverige (Östersjökusten, Gotland)",
+   "source": "Copernicus Marine Service (CMEMS)",
+   "model": "CMEMS Baltic Sea Physics Analysis and Forecast (NEMO-Nordic) – Oberflächenströmung",
+   "file": "seost.json",
+   "bbox": [
+    13.0138,
+    55.3083,
+    19.3472,
+    59.8749
+   ],
+   "reference_time_utc": "2026-11-02T14:00:00Z",
+   "times": [
+    "2026-11-02T14:00:00Z",
+    "2026-11-05T13:00:00Z"
+   ],
+   "step_min": 60,
+   "num_points": 6544
   },
   {
    "region": "usakal",
