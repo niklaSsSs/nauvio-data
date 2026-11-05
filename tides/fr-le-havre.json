@@ -42,38 +42,6 @@
  "events_by_year": {
   "2026": [
    {
-    "time": "2026-11-04T05:53:53Z",
-    "type": "HW",
-    "height_gauge": 1.601,
-    "height_chart": 6.561,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-11-04T12:37:04Z",
-    "type": "NW",
-    "height_gauge": -2.471,
-    "height_chart": 2.489,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-11-04T18:21:00Z",
-    "type": "HW",
-    "height_gauge": 1.776,
-    "height_chart": 6.736,
-    "moon": null,
-    "phase": null
-   },
-   {
-    "time": "2026-11-05T01:03:44Z",
-    "type": "NW",
-    "height_gauge": -2.791,
-    "height_chart": 2.169,
-    "moon": null,
-    "phase": null
-   },
-   {
     "time": "2026-11-05T07:22:57Z",
     "type": "HW",
     "height_gauge": 2.13,
@@ -158,6 +126,14 @@
     "type": "HW",
     "height_gauge": 2.694,
     "height_chart": 7.654,
+    "moon": null,
+    "phase": null
+   },
+   {
+    "time": "2026-11-08T03:38:15Z",
+    "type": "NW",
+    "height_gauge": -3.331,
+    "height_chart": 1.629,
     "moon": null,
     "phase": null
    }
